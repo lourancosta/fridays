@@ -5,8 +5,8 @@
   <div class="other-images">
     <div
       class="image"
-      *ngFor="let image of galleryImages"
-      (changThumbImage)="changeThumbImage"
+      *ngFor="let image of galleryImages; let i = index"
+      (changeThumbImage)="changeThumbImage"
     >
       <img class="img-small" src="{{ image }}"/>
     </div>

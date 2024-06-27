@@ -26,10 +26,10 @@ export class PhotoGalleryComponent implements OnInit {
 
   changeThumbImage() {
     let thumb: any = document.querySelector('img.thumb');
-    let imgSmall: any = document.querySelectorAll('img.img-small');
+    let smallImages: any = document.querySelectorAll('img.img-small');
 
-    imgSmall.forEach(function(el: any) {
-      el.addEventListener('click', function() {
+    smallImages.forEach(function(el: any) {
+      el.addEventListener('click', function () {
         thumb.src = el.src;
       });
     });

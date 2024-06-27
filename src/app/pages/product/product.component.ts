@@ -31,11 +31,10 @@ export class ProductComponent implements OnInit {
 
   ngOnInit() {
     const id: any = this.route.snapshot.paramMap.get('id')
-    this.product = this.getProductById(id)
-    console.log(this.product)
+    this.product = this.searchProductById(id)
   }
 
-  getProductById(id: string) {
+  searchProductById(id: string) {
     this.product  = this.productsService.getProductById(id)
     return this.product
   }

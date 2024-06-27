@@ -9,6 +9,7 @@ import dataProducts from '../../data/productsData.json'
 export class ProductsService {
   initialProductsList = dataProducts.products;
   productsList = dataProducts.products;
+
   productListByCategory: any;
   product: any;
 
@@ -33,9 +34,7 @@ export class ProductsService {
   }
 
   getProductById(id: string) {
-    this.product = this.initialProductsList.find((product: any) => {
-      product.id === id
-    })
+    this.product = this.initialProductsList.find((product: any)  => product.id === id)
     return this.product
   }
 }
