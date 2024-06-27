@@ -10,18 +10,14 @@
   margin: 48px 0;
 }
 
-.header-title h1 {
-  position: relative
+.header-title img {
+  width: 400px;
 }
 
-.header-title h1,
-.header-title span {
-  font-family: Lilita One;
-  color: var(--primary-color);
-}
 
-.created-by {
-  position: absolute;
-  right: 50px;
-  font-size: 12px;
+
+@media (max-width: 400px) {
+  .header-title img {
+    width: 320px;
+  }
 }

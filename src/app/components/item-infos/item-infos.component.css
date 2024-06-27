@@ -80,3 +80,15 @@
   transition: 0.8s;
   cursor: pointer;
 }
+
+@media (max-width: 720px) {
+  #contact {
+    justify-content: center;
+  }
+
+  .whatapp-button {
+    font-size: 24px;
+    max-width: 360px;
+    padding: 24px 32px;
+  }
+}

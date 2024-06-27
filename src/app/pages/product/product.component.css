@@ -11,6 +11,11 @@
 .item-details {
   display: grid;
   grid-template-columns: 1fr 1fr;
-  /* grid-template-columns: 1fr; */
   gap: 48px;
+}
+
+@media (max-width: 720px) {
+  .item-details {
+    grid-template-columns: 1fr;
+  }
 }

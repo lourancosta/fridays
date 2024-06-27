@@ -2,6 +2,7 @@ import { Component, OnInit } from '@angular/core';
 import { ActivatedRoute } from '@angular/router';
 
 import { SecondHeaderComponent } from 'src/app/components/second-header/second-header.component';
+import { HeaderComponent } from 'src/app/components/header/header.component';
 import { PhotoGalleryComponent } from 'src/app/components/photo-gallery/photo-gallery.component';
 import { ItemInfosComponent } from 'src/app/components/item-infos/item-infos.component';
 import { FooterComponent } from 'src/app/components/footer/footer.component';
@@ -13,6 +14,7 @@ import { ProductsService } from 'src/app/services/products.service';
   standalone: true,
   imports: [
     SecondHeaderComponent,
+    HeaderComponent,
     PhotoGalleryComponent,
     ItemInfosComponent,
     FooterComponent,
