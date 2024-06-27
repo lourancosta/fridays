@@ -1,6 +1,7 @@
-# Fridays
+# Frida'ys Bazar
+Welcome to Fridays Bazar! Frida is a Brazilian dachshund that is moving to Canada, so she needs to sell a lot things until her travel date to Canada.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.11.
+This project is an online marketplace designed to offer a seamless shopping experience. Built with Angular on the front-end, Fridays Bazar aims to provide a responsive, fast, and user-friendly interface.
 
 ## Development server
 

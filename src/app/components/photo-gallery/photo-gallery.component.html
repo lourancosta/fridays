@@ -1,0 +1,13 @@
+<div class="gallery">
+  <div class="main-image">
+    <img class="thumb" src="{{ firstImage }}"/>
+  </div>
+  <div class="other-images">
+    <div
+      class="image"
+      *ngFor="let image of galleryImages"
+      (changThumbImage)="changeThumbImage"
+    >
+      <img class="img-small" src="{{ image }}"/>
+    </div>
+</div>

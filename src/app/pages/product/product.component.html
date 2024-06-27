@@ -1,0 +1,22 @@
+<app-second-header></app-second-header>
+
+<div class="container">
+  <section class="item-details">
+    <div class="item-images">
+      <app-photo-gallery
+        [images]="product.images"
+        [firstImage]="product.images[0]"
+      ></app-photo-gallery>
+    </div>
+    <div class="item-information">
+      <app-item-infos
+        [category]="product.category"
+        [title]="product.title"
+        [price]="product.price"
+        [description]="product.description"
+      ></app-item-infos>
+    </div>
+  </section>
+</div>
+
+<app-footer></app-footer>

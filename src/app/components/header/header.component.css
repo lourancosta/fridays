@@ -1,0 +1,27 @@
+.app-header {
+  max-width: 1080px;
+  margin: 0 auto;
+}
+
+.header-title {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 48px 0;
+}
+
+.header-title h1 {
+  position: relative
+}
+
+.header-title h1,
+.header-title span {
+  font-family: Lilita One;
+  color: var(--primary-color);
+}
+
+.created-by {
+  position: absolute;
+  right: 50px;
+  font-size: 12px;
+}

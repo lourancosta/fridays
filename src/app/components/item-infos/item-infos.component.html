@@ -1,0 +1,31 @@
+<div class="infos">
+  <div class="info">
+    <p id="item-title">{{ title }}</p>
+  </div>
+
+  <div class="info" id="item-price">
+    <span id="price">R$ {{ price }}</span>
+    <span id="payment-method">à vista</span>
+  </div>
+
+  <div class="info">
+    <p class="info-label" id="item-description">Descrição do produto:</p>
+    <p id="item-details">{{ description }} </p>
+  </div>
+
+  <div class="info">
+    <p class="info-label" id="item-description">Categoria:</p>
+    <span id="category" class="{{ category }}">{{ category }}</span>
+  </div>
+</div>
+
+<div id="contact">
+  <a
+    class="whatapp-button"
+    href="https://api.whatsapp.com/send/?phone=+5519999090611&text=Olá,%20tenho%20interesse%20no(a)%20{{ title }}!"
+    target="_blank"
+  >
+    <img src="../../assets/whatsapp-icon.png" alt="whatsapp button to contact vendor">
+    Entrar em Contato
+  </a>
+</div>

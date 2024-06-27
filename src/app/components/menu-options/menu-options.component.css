@@ -1,0 +1,20 @@
+.menu {
+  margin: 0 auto;
+  padding-top: 32px;
+  padding-bottom: 32px;
+  border-top: 1px var(--light-grey) solid;
+  border-bottom: 1px var(--light-grey) solid;
+}
+
+.menu label {
+  margin-right: 8px;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.menu select {
+  font-size: 16px;
+  padding: 4px 8px;
+  border-radius: 4px;
+  border: 2px solid;
+}

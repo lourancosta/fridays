@@ -1,0 +1,817 @@
+{
+  "products": [
+    {
+      "id": "48",
+      "title": "Monitor DELL 27 polegadas FHD 1080p tela com iluminação LED (P2719H)",
+      "description": "Obtenha um excelente valor usando este monitor FHD de 27 polegadas, com ângulo de visão ampliado, conectividade VGA, DP, HDMI. Full HD (1080p) 1920 x 1080 a 60 Hz. Dimensões 62.33 cm x 18.829 cm x 45.89 cm - com suporte",
+      "price": "750,00",
+      "category": "eletronico",
+      "images": [
+        "../../assets/products/monitor-dell27/monitor-dell271.png",
+        "../../assets/products/monitor-dell27/monitor-dell272.png",
+        "../../assets/products/monitor-dell27/monitor-dell273.png",
+        "../../assets/products/monitor-dell27/monitor-dell274.png",
+        "../../assets/products/monitor-dell27/monitor-dell275.png",
+        "../../assets/products/monitor-dell27/monitor-dell276.png",
+        "../../assets/products/monitor-dell27/monitor-dell277.png",
+        "../../assets/products/monitor-dell27/monitor-dell278.png"
+      ]
+    },
+    {
+      "id": "49",
+      "title": "Violão Fender CD-100 CE",
+      "description": "Otimo timbre e sonoridade captação fishiman fender original acompanha hardcase, tripé, cabo e capotraste.",
+      "price": "1.250,00",
+      "category": "outros",
+      "images": [
+        "../../assets/products/violao/violao01.png",
+        "../../assets/products/violao/violao02.png",
+        "../../assets/products/violao/violao03.png",
+        "../../assets/products/violao/violao04.png",
+        "../../assets/products/violao/violao05.png",
+        "../../assets/products/violao/violao06.png",
+        "../../assets/products/violao/violao07.png",
+        "../../assets/products/violao/violao08.png",
+        "../../assets/products/violao/violao09.png",
+        "../../assets/products/violao/violao10.png"
+      ]
+    },
+    {
+      "id": "27",
+      "title": "Forno De Embutir Elétrico Electrolux OE60M 59 Litros – Preto 127V",
+      "description": "59 litros de Capacidade: Forno de embutir compacto para melhor aproveitamento do espaço na cozinha. 3 funções: Para preparar Bolos, Massas, Carnes e Dourar. Função Manter Aquecido: Mantém sua receita quentinha até o momento de servir. Timer com Auto Desligamento: Após atingir o tempo escolhido no timer o forno desliga sozinho, sem precisar se preocupar. Forno com acabamento em esmalte Simple+Clean: Mais facilidade no momento da limpeza, com remoção fácil de manchas e gorduras.",
+      "price": "1,00",
+      "category": "cozinha",
+      "images": [
+        "../../assets/products/forno-eletrico/forno-eletrico1.png",
+        "../../assets/products/forno-eletrico/forno-eletrico2.png",
+        "../../assets/products/forno-eletrico/forno-eletrico3.png"
+      ]
+    },
+    {
+      "id": "56",
+      "title": "Macbook Pro - Chip M1 Pro, 14 Polegadas 16GB RAM 512 SSD - Cinza Espacial",
+      "description": "Notebook Apple Macbook Pro, chip M1 Pro, 14 polegadas. 16GB RAM e 512 SSD. Chips M1 Pro ultrarrápido para desempenho revolucionário e bateria com duração impressionante. Tela Liquid Retina XDR espetacular. E todas as portas que você poderia querer. É exatamente o que você estava esperando.",
+      "price": "12.500,00",
+      "category": "eletronico",
+      "images": [
+        "../../assets/products/macbook-pro/macbook-pro1.png",
+        "../../assets/products/macbook-pro/macbook-pro2.png",
+        "../../assets/products/macbook-pro/macbook-pro3.png",
+        "../../assets/products/macbook-pro/macbook-pro4.png",
+        "../../assets/products/macbook-pro/macbook-pro5.png",
+        "../../assets/products/macbook-pro/macbook-pro6.png",
+        "../../assets/products/macbook-pro/macbook-pro7.png",
+        "../../assets/products/macbook-pro/macbook-pro8.png",
+        "../../assets/products/macbook-pro/macbook-pro9.png"
+      ]
+    },
+    {
+      "id": "51",
+      "title": "Console PlayStation 5 - com 2 controles e base carregadora",
+      "description": "Acompanha 2 controles e base carregadora. Com seu console PlayStation 5 você terá entretenimento garantido todos os dias. Sua tecnologia foi criada para colocar novos desafios para jogadores novatos e especialistas.O PlayStation renovou as expectativas do mundo virtual com este novo console e seu grande desempenho. Tem uma interface de usuário mais rápida e fácil de navegar do que os modelos anteriores. Além disso, você poderá jogar por horas desafiando milhões de oponentes em todo o mundo que estão esperando por novos desafios.",
+      "price": "3.000,00",
+      "category": "eletronico",
+      "images": [
+        "../../assets/products/ps5/ps51.png",
+        "../../assets/products/ps5/ps52.png",
+        "../../assets/products/ps5/ps53.png",
+        "../../assets/products/ps5/ps54.png"
+      ]
+    },
+    {
+      "id": "50",
+      "title": "Carrinho Multi Uso",
+      "description": "O carrinho multiuso com pintura epóxi resistente em aço, possui 3 prateleiras com bordas e fundo de superfície vazada que suportam até 20kg cada prateleira. Seu fundo possui micro furos que eliminam eventuais resíduos líquidos. O carrinho possui alça e rodízios, se tornando prático para locomoção e decorativo em seu ambiente. Ideal para diversos ambientes e para seu negócio como: sala, banheiro, quarto lavanderia, bar, quarto de criança, salão de beleza, oficina e escritório. Basta montar e começar a organizar.",
+      "price": "1,00",
+      "category": "casa",
+      "images": [
+        "../../assets/products/carrinho-ferro/carrinho-ferro1.png",
+        "../../assets/products/carrinho-ferro/carrinho-ferro2.png",
+        "../../assets/products/carrinho-ferro/carrinho-ferro3.png"
+      ]
+    },
+    {
+      "id": "52",
+      "title": "Macbook Air 2017 13.3 polegadas",
+      "description": "MacBook Air 2017 SSD 128GB, Intel Core i5, 8GB de ram. Tudo funcionando 100%, bateria durando em média 4 a 6 horas. Macbook muito leve e com design muito elegante e fino. Está bem conservado, sem amassados e sem marcas de uso. Acompanham o macbook: carregador original, caixa, cabo Thunderbolt X HDMI 2 metros, adaptadores Thunderbolt X HDMI e Thunderbolt X VGA.",
+      "price": "2.300,00",
+      "category": "eletronico",
+      "images": [
+        "../../assets/products/macbook-air/macbook-air1.png",
+        "../../assets/products/macbook-air/macbook-air2.png",
+        "../../assets/products/macbook-air/macbook-air3.png",
+        "../../assets/products/macbook-air/macbook-air4.png",
+        "../../assets/products/macbook-air/macbook-air5.png",
+        "../../assets/products/macbook-air/macbook-air6.png",
+        "../../assets/products/macbook-air/macbook-air7.png",
+        "../../assets/products/macbook-air/macbook-air8.png"
+      ]
+    },
+    {
+      "id": "53",
+      "title": "Headphone Sony WH-1000XM5",
+      "description": "Os melhores fones de ouvido sem fio com cancelamento de ruído com otimizador de cancelamento de ruído automático, chamadas mãos-livres cristalinas e controle de voz Alexa, preto. Maiores detalhes técnicos na ultima foto.",
+      "price": "1.300,00",
+      "category": "eletronico",
+      "images": [
+        "../../assets/products/headphone-sony/headphone-sony1.png",
+        "../../assets/products/headphone-sony/headphone-sony2.png",
+        "../../assets/products/headphone-sony/headphone-sony3.png",
+        "../../assets/products/headphone-sony/headphone-sony4.png",
+        "../../assets/products/headphone-sony/headphone-sony5.png",
+        "../../assets/products/headphone-sony/headphone-sony6.png",
+        "../../assets/products/headphone-sony/headphone-sony7.png",
+        "../../assets/products/headphone-sony/headphone-sony8.png",
+        "../../assets/products/headphone-sony/headphone-sony9.png"
+      ]
+    },
+    {
+      "id": "28",
+      "title": "Microondas 30 Litros Philco Pme31 Inox Com Porta Espelhada 127v",
+      "description": "Micro-ondas 30 Litros Philco Pme31 Inox Com Porta Espelhada 127v teclas Fáceis = Kids / Cozinhar performance = Alta Performance De Aquecimento função Timer = Mais Espaço Para Acomodar Os Alimentos função Descongelar = Remove O Odor Do Aquecimento Dos Alimentos display Digital = Fácil Visualização Com Opção De Desligar Display/sound trava De Segurança = Maior Segurança Para A Família. O Teclado Pode Ser bloqueado Para Evitar O Uso Indevido Do Produto Por Crianças. características: • Teclas Fáceis: Kids E Cozinhar • Opções Cozinhar E Cozinhar Por Peso • Opções Descongelar Rápido Ou Descongelar Por Peso • 1400w De Potência Nominal • Função Relógio • Função Timer • Capacidade: 30 Litros • Prato Com Diâmetro De 325 Mm • Trava De Segurança • Disponível Nas Versões 127v E 220v • Garantia De 01 Ano • Classe B • Porta De Vidro Espelhado função Timer: Permite Programar O Horário De Início Do preparo Com Antecedência trava De Segurança: Permite O Bloqueio Do Teclado Para evitar O Uso Do Aparelho Por Crianças. função Potência: Permite Escolher O Nível De Potência desejada Para Cada Alimento acessórios : suporte E Prato Giratórios.",
+      "price": "1,00",
+      "category": "cozinha",
+      "images": [
+        "../../assets/products/microondas/microondas1.png",
+        "../../assets/products/microondas/microondas2.png",
+        "../../assets/products/microondas/microondas3.png",
+        "../../assets/products/microondas/microondas4.png",
+        "../../assets/products/microondas/microondas5.png"
+      ]
+    },
+    {
+      "id": "29",
+      "title": "Mini ME Dolce Gusto",
+      "description": "Automática Máquina de café vermelha e preta - 127v.",
+      "price": "1,00",
+      "category": "cozinha",
+      "images": [
+        "../../assets/products/cafeteira-capsula/cafeteira-capsula1.png",
+        "../../assets/products/cafeteira-capsula/cafeteira-capsula2.png"
+      ]
+    },
+    {
+      "id": "57",
+      "title": "Cadeira Escritório Cavaletti",
+      "description": "Cadeira Cavaletti para escritório / home office, rodas de gel anti-risco com suporte de lombar ecabeça, cor preta",
+      "price": "400,00",
+      "category": "escritorio",
+      "images": [
+        "../../assets/products/cadeira/cadeira1.png",
+        "../../assets/products/cadeira/cadeira2.png",
+        "../../assets/products/cadeira/cadeira3.png"
+      ]
+    },
+    {
+      "id": "58",
+      "title": "Drive CD/DVD ASUS - Portátil USB",
+      "description": "Gravador de DVD portátil 8X com suporte M-DISC para backup de dados, compatível com Windows e Mac OS. O ASUS SDRWé um gravador de DVD externo fino e capaz de velocidades 8X. Design elegante e portátil. Recursos adicionais incluem USB 2.0 e o E-Green Engine para o melhor armazenamento óptico disponível.",
+      "price": "100,00",
+      "category": "escritorio",
+      "images": [
+        "../../assets/products/drive-cd/drive-cd1.png",
+        "../../assets/products/drive-cd/drive-cd2.png",
+        "../../assets/products/drive-cd/drive-cd3.png",
+        "../../assets/products/drive-cd/drive-cd4.png"
+      ]
+    },
+    {
+      "id": "54",
+      "title": "Headphone Kuba Disco 2 Bluetooth",
+      "description": "O primeiro headphone bluetooth desenvolvido no Brasil. Modular, com design único e a qualidade de som que você espera da Kuba. Seu fone definitivo, agora livre de fios..",
+      "price": "780,00",
+      "category": "eletronico",
+      "images": [
+        "../../assets/products/headphone-kuba/headphone-kuba1.png",
+        "../../assets/products/headphone-kuba/headphone-kuba2.png",
+        "../../assets/products/headphone-kuba/headphone-kuba3.png",
+        "../../assets/products/headphone-kuba/headphone-kuba4.png",
+        "../../assets/products/headphone-kuba/headphone-kuba5.png",
+        "../../assets/products/headphone-kuba/headphone-kuba6.png"
+      ]
+    },
+    {
+      "id": "32",
+      "title": "Lava e Seca LG - Inverter Direct Drive 11 / 6 Kg",
+      "description": "Lavadora e secadora LG -  lava 11 Kg e seca 6 kg",
+      "price": "1,00",
+      "category": "casa",
+      "images": [
+        "../../assets/products/lavaseca/lavaseca1.png",
+        "../../assets/products/lavaseca/lavaseca2.png",
+        "../../assets/products/lavaseca/lavaseca3.png",
+        "../../assets/products/lavaseca/lavaseca4.png"
+      ]
+    },
+    {
+      "id": "33",
+      "title": "Bandeja de Bambu Retangular com Alça",
+      "description": "Componha com muito mais estilo e requinte na hora de servir ou decorar com a Bandeja de Bambu Retangular com Alça. Para festas, encontros, jantares, ela proporciona charme e elegância para sua decoração.",
+      "price": "1,00",
+      "category": "casa",
+      "images": [
+        "../../assets/products/bandejabambu/bandejabambu1.png",
+        "../../assets/products/bandejabambu/bandejabambu2.png"
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Conjunto de Copos de Vidro - Tamanho Médio",
+      "description": "10 copos de vidro tamanho médio, vidro de boa qualidade e resistente.",
+      "price": "20,00",
+      "category": "cozinha",
+      "images": [
+        "../../assets/products/copos-vidros/copo1.png",
+        "../../assets/products/copos-vidros/copo2.png",
+        "../../assets/products/copos-vidros/copo3.png"
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Liquidificar Oster",
+      "description": "Liquidificar Oster, com copo de vidro. Muito resistente e potente",
+      "price": "100,00",
+      "category": "cozinha",
+      "images": [
+        "../../assets/products/liquidificador/liquidificador1.png",
+        "../../assets/products/liquidificador/liquidificador2.png"
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Conjunto Potes de Vidro Marinex - Pequeno Redondo",
+      "description": "Conjunto de 3 Potes de vidro redondos da marca Marinex, tamanho pequeno!",
+      "price": "1,00",
+      "category": "cozinha",
+      "images": [
+        "../../assets/products/potes-tampa-azul/potes-tampa-azul1.png",
+        "../../assets/products/potes-tampa-azul/potes-tampa-azul2.png",
+        "../../assets/products/potes-tampa-azul/potes-tampa-azul3.png"
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Conjunto Potes de Vidro Marinex - Pequeno Retangular",
+      "description": "Conjunto de 4 Potes de vidro retangulares da marca Marinex, tamanho pequeno!",
+      "price": "1,00",
+      "category": "cozinha",
+      "images": [
+        "../../assets/products/potes-retangulares/potes-retangulares1.pn.png",
+        "../../assets/products/potes-retangulares/potes-retangulares2.pn.png",
+        "../../assets/products/potes-retangulares/potes-retangulares3.pn.png",
+        "../../assets/products/potes-retangulares/potes-retangulares4.pn.png"
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Pote de Vidro - Pequeno Quadrado Tampa Vermelha",
+      "description": "1 Pote de vidro quadrado, tamanho pequeno!",
+      "price": "1,00",
+      "category": "cozinha",
+      "images": [
+        "../../assets/products/pote-quadrado-vermelho/pote-quadrado-vermelho1.png",
+        "../../assets/products/pote-quadrado-vermelho/pote-quadrado-vermelho2.png"
+      ]
+    },
+    {
+      "id": "60",
+      "title": "Apple Magic Keyboard",
+      "description": "Magic Keyboard para escrever com toda a comodidade e precisão. Sem fios e recarregável, a bateria integrada de longa duração mantém o seu teclado a funcionar durante cerca de um mês, ou até mais. Associa-se automaticamente ao Mac, para começar logo a trabalhar. Inclui um cabo de tecido USB para Lightning.",
+      "price": "300,00",
+      "category": "escritorio",
+      "images": [
+        "../../assets/products/apple-teclado/apple-teclado1.png",
+        "../../assets/products/apple-teclado/apple-teclado2.png",
+        "../../assets/products/apple-teclado/apple-teclado3.png"
+      ]
+    },
+    {
+      "id": "7",
+      "title": "Conjunto Potes de Vidro Marinex - Pequeno",
+      "description": "Conjunto de 2 Potes de Vidro da marca Marinex Quadrado, tamanho pequeno!",
+      "price": "1,00",
+      "category": "cozinha",
+      "images": [
+        "../../assets/products/pote-quadrado-azul/pote-quadrado-azul1.png",
+        "../../assets/products/pote-quadrado-azul/pote-quadrado-azul2.png"
+      ]
+    },
+    {
+      "id": "8",
+      "title": "Conjunto Potes Hermeticos de Vidro",
+      "description": "Conjunto de 2 Potes de Vidro Hermeticos Quadrado",
+      "price": "1,00",
+      "category": "cozinha",
+      "images": [
+        "../../assets/products/pote-hermetico/pote-hermetico1.png",
+        "../../assets/products/pote-hermetico/pote-hermetico2.png"
+      ]
+    },
+    {
+      "id": "9",
+      "title": "Canecas Variadas",
+      "description": "Conjunto de canecas variadas",
+      "price": "1,00",
+      "category": "cozinha",
+      "images": [
+        "../../assets/products/canecas-variadas/canecas-variadas1.png",
+        "../../assets/products/canecas-variadas/canecas-variadas2.png"
+      ]
+    },
+    {
+      "id": "10",
+      "title": "Aparelho de Jantar e Chá Oxford Mail Order Luiza com 20 Peças",
+      "description": "Lúdico e natural: assim é o modelo Floreal. Em meio às construções do centro histórico de São Luís do Maranhão encontramos as cores e formas que inspiraram essa decoração. O aparelho de jantar Floreal Luiza da Oxford buscou referências nos azulejos coloridos e nas texturas diferenciadas presentes nos monumentos do local.",
+      "price": "1,00",
+      "category": "cozinha",
+      "images": [
+        "../../assets/products/aparelho-jantar/aparelho-jantar1.png",
+        "../../assets/products/aparelho-jantar/aparelho-jantar2.png",
+        "../../assets/products/aparelho-jantar/aparelho-jantar3.png",
+        "../../assets/products/aparelho-jantar/aparelho-jantar4.png",
+        "../../assets/products/aparelho-jantar/aparelho-jantar5.png",
+        "../../assets/products/aparelho-jantar/aparelho-jantar6.png",
+        "../../assets/products/aparelho-jantar/aparelho-jantar7.png"
+      ]
+    },
+    {
+      "id": "11",
+      "title": "Supla Descanso Prato Mesa De Jantar Posta Decoração Versátil Pratico Redondo",
+      "description": "2 Jogos de supla para jantar, com 6 peças cada cor.",
+      "price": "1,00",
+      "category": "cozinha",
+      "images": [
+        "../../assets/products/conjunto-suplas/conjunto-suplas1.png",
+        "../../assets/products/conjunto-suplas/conjunto-suplas2.png",
+        "../../assets/products/conjunto-suplas/conjunto-suplas3.png",
+        "../../assets/products/conjunto-suplas/conjunto-suplas4.png"
+      ]
+    },
+    {
+      "id": "12",
+      "title": "Jarra de Vidro",
+      "description": "1 jarra de vidro, capacidade 1 litro.",
+      "price": "1,00",
+      "category": "cozinha",
+      "images": [
+        "../../assets/products/jarra-vidro/jarra-vidro1.png"
+      ]
+    },
+    {
+      "id": "61",
+      "title": "Teclado sem fio Logitech MX Keys Mini ",
+      "description": "Teclado sem fio Logitech MX Keys Mini com Iluminação Inteligente, Conexão USB ou Bluetooth Easy-Switch para até 3 dispositivos e Bateria Recarregável - Grafite. Digitação e posicionamento com teclas inteligentes: digite nas teclas moldadas para a ponta dos dedos, com ditado de voz para texto, ativação e desativação do som e teclas de emoji. Tamanho Minimalista, compacto e poderoso: um layout projetado para precisão sem esforço, com formato minimalista para um teclado ergonômico e portátil para fácil transporte. Iluminação inteligente: as teclas retroiluminadas do teclado se iluminam no momento em que suas mãos se aproximam e se ajustam automaticamente para se adequar às mudanças nas condições de iluminação. Vários dispositivos, vários sistemas operacionais: Pareie o teclado compacto MX Keys Mini com até 3 dispositivos em praticamente qualquer sistema operacional via Bluetooth Low Energy e alterne entre eles perfeitamente",
+      "price": "300,00",
+      "category": "escritorio",
+      "images": [
+        "../../assets/products/logi-teclado/logi-teclado1.png",
+        "../../assets/products/logi-teclado/logi-teclado2.png",
+        "../../assets/products/logi-teclado/logi-teclado3.png",
+        "../../assets/products/logi-teclado/logi-teclado4.png"
+      ]
+    },
+    {
+      "id": "13",
+      "title": "Coqueteleira Kit",
+      "description": "Kit coqueteleira para preparo de bebeidas de Inox.",
+      "price": "1,00",
+      "category": "cozinha",
+      "images": [
+        "../../assets/products/coqueteleira/coqueteleira1.png",
+        "../../assets/products/coqueteleira/coqueteleira2.png"
+      ]
+    },
+    {
+      "id": "59",
+      "title": "Mouse DELL",
+      "description": "Mouse Bluetooth sem fio DELL, pilha, cor preta.",
+      "price": "30,00",
+      "category": "escritorio",
+      "images": [
+        "../../assets/products/mouse-dell/mouse-dell1.png"
+      ]
+    },
+    {
+      "id": "14",
+      "title": "Jogo De Taças Para Vinho Cristal - 580ml",
+      "description": "Jogo de Taças para Vinho Cristal 580ml, com 6 peças. é um conjunto de taças de vinho de alta qualidade, fabricadas em cristal. Essas taças são projetadas com precisão para realçar a experiência de degustação de vinho, permitindo que os apreciadores de vinho desfrutem plenamente dos aromas, sabores e características da bebida.",
+      "price": "1,00",
+      "category": "cozinha",
+      "images": [
+        "../../assets/products/tacas-vinho/tacas-vinho1.png",
+        "../../assets/products/tacas-vinho/tacas-vinho2.png",
+        "../../assets/products/tacas-vinho/tacas-vinho3.png"
+      ]
+    },
+    {
+      "id": "15",
+      "title": "Kit Cinema Star Wars",
+      "description": "Kit recipientes para cinema - pipoca e bebida. Conjunto com dois balde e um campo",
+      "price": "1,00",
+      "category": "cozinha",
+      "images": [
+        "../../assets/products/kit-cinema/kit-cinema1.png",
+        "../../assets/products/kit-cinema/kit-cinema2.png"
+      ]
+    },
+    {
+      "id": "16",
+      "title": "Grill Mondial",
+      "description": "Grill Mondial Premium",
+      "price": "1,00",
+      "category": "cozinha",
+      "images": [
+        "../../assets/products/grill/grill1.png",
+        "../../assets/products/grill/grill2.png"
+      ]
+    },
+    {
+      "id": "63",
+      "title": "Apple Magic Mouse Multi-Touch, Branco",
+      "description": "O Magic Mouse apresenta um design otimizado que se movimenta perfeitamente pela mesa. É possível navegar por documentos e páginas de maneira suave, fazendo gestos simples, isso graças a superfície Multi-Touch.  Ele já vem pronto para o uso com o Mac. A sua bateria também apresenta uma duração bem longa, tendo um mês ou mais entre recargas. O mouse vem acompanhado de um cabo USB para Lightning.",
+      "price": "380,00",
+      "category": "escritorio",
+      "images": [
+        "../../assets/products/apple-mouse-b/apple-mouse-b1.png",
+        "../../assets/products/apple-mouse-b/apple-mouse-b2.png",
+        "../../assets/products/apple-mouse-b/apple-mouse-b3.png"
+      ]
+    },
+    {
+      "id": "55",
+      "title": "Suporte Para Garrafa Home Style Arhus 20cm x 36cm",
+      "description": "PRETO, UNICO, Capacidade 6 GARRAFAS.Suportes de garrafas são essenciais para apreciadores de qualquer bebida. Mantenha suas garrafas organizadas com estilo no bar, cozinha ou sala de estar, fazendo a peça se completar à sua decoração. O Suporte para Garrafas Arhus, tem nichos que acomodam até 6 garrafas, produzido em metal e madeira, duas matérias primas de qualidade, durabilidade e estética rústica.",
+      "price": "1,00",
+      "category": "casa",
+      "images": [
+        "../../assets/products/suporte-garrafas/suporte-garrafas1.png",
+        "../../assets/products/suporte-garrafas/suporte-garrafas2.png",
+        "../../assets/products/suporte-garrafas/suporte-garrafas3.png",
+        "../../assets/products/suporte-garrafas/suporte-garrafas4.png"
+      ]
+    },
+    {
+      "id": "17",
+      "title": "Caneca Térmica Ember - Copper Edition",
+      "description": "Ember 2 - Copper Edition:  caneca térmica, nova nunca usada. Smart copo controlado por temperatura 14 oz IPX7 LED aço inoxidável cobre. Mantenha seu café ou chá aquecidos por muito mais tempo.",
+      "price": "1,00",
+      "category": "cozinha",
+      "images": [
+        "../../assets/products/caneca-termica/caneca-termica1.png",
+        "../../assets/products/caneca-termica/caneca-termica2.png",
+        "../../assets/products/caneca-termica/caneca-termica3.png",
+        "../../assets/products/caneca-termica/caneca-termica4.png"
+      ]
+    },
+    {
+      "id": "18",
+      "title": "Extrator de Sucos Turbo Premium, Mondial, Preto/Inox, 250W, Bivolt - E-10",
+      "description": "Com o Extrator de Sucos Turbo 250W Premium Mondial E-10, você vai preparar sucos naturais com muito mais praticidade. Com 250W de potência, o extrator vem com dois cones para a extração de sucos de laranja e limão. Possui motor blindado com proteção térmica, dupla rotação e é Bivolt. Acompanha copo com peneira para facilitar os preparos.",
+      "price": "1,00",
+      "category": "cozinha",
+      "images": [
+        "../../assets/products/extrator-suco/extrator-suco1.png",
+        "../../assets/products/extrator-suco/extrator-suco2.png",
+        "../../assets/products/extrator-suco/extrator-suco3.png"
+      ]
+    },
+    {
+      "id": "19",
+      "title": "Balança Portátil",
+      "description": "Balança Portátil de Cozinha",
+      "price": "1,00",
+      "category": "cozinha",
+      "images": [
+        "../../assets/products/balanca/balanca1.png",
+        "../../assets/products/balanca/balanca2.png"
+      ]
+    },
+    {
+      "id": "20",
+      "title": "Multiprocessador Philco",
+      "description": "Perfeito para todos os mais variados preparos em apenas um único lugar! *** Não possui copo liquidificador ***",
+      "price": "1,00",
+      "category": "cozinha",
+      "images": [
+        "../../assets/products/multiprocessador/multiprocessador1.png",
+        "../../assets/products/multiprocessador/multiprocessador2.png"
+      ]
+    },
+    {
+      "id": "21",
+      "title": "Recipientes",
+      "description": "5 recipientes inox, tamanhos variados.",
+      "price": "1,00",
+      "category": "cozinha",
+      "images": [
+        "../../assets/products/recipientes-inox/recipientes-inox1.png",
+        "../../assets/products/recipientes-inox/recipientes-inox2.png"
+      ]
+    },
+    {
+      "id": "22",
+      "title": "Bowls - Tijelas",
+      "description": "2 conjuntos de 2 bowls.",
+      "price": "1,00",
+      "category": "cozinha",
+      "images": [
+        "../../assets/products/bowls/bowls1.png",
+        "../../assets/products/bowls/bowls2.png",
+        "../../assets/products/bowls/bowls3.png"
+      ]
+    },
+    {
+      "id": "23",
+      "title": "Descanso de panela redondo de bambu jogo 5 unidades protege sua mesa",
+      "description": "Kit c/ 5 Descanso De Panela com cor Bambu Protege sua Mesa e bancada Com os descansos de panela no padrão bambu, sua mesa de jantar ou bancada terão o toque de charme ideal para receber amigos ou família para aquela confraternização em volta da mesa. Este kit vai compor a sua mesa de forma muito prática na hora de servir uma refeição. Descrição técnica: Medidas: 16,5 x 16,5cm Material: Madeira que imita bambu Quantidade: 5 unidades Formato : Redondo",
+      "price": "1,00",
+      "category": "cozinha",
+      "images": [
+        "../../assets/products/descanso-panela/descanso-panela1.png",
+        "../../assets/products/descanso-panela/descanso-panela2.png",
+        "../../assets/products/descanso-panela/descanso-panela3.png"
+      ]
+    },
+    {
+      "id": "24",
+      "title": "Conjuntos Hashi's Sushi 2 Jogos de 4 Pares - Comprados na China",
+      "description": "2 Jogos de 4 Pares de Hashi - Comprados na China",
+      "price": "1,00",
+      "category": "cozinha",
+      "images": [
+        "../../assets/products/hashi/hashi1.png",
+        "../../assets/products/hashi/hashi2.png",
+        "../../assets/products/hashi/hashi3.png",
+        "../../assets/products/hashi/hashi4.png",
+        "../../assets/products/hashi/hashi5.png"
+      ]
+    },
+    {
+      "id": "25",
+      "title": "Jogo de Taças (copos) de Vidro 330ml 6 Peças Haus",
+      "description": "Grandes momentos ao lado de amigos, ou mesmo no dia a dia, contar com utensílios corretos para cada ocasião faz toda a diferença não é mesmo? Por isso vale a pena conferir o Jogo de Taças Bico de Jaca Empire, da Haus. Um lindo jogo composto por 6 belíssimas taças, que certamente encantarão seus convidados pelo requinte. Ideal para diversas bebidas essas taças tem uma capacidade de 330ml e são feitas de vidro, contribuindo para a decoração da mesa e ajudando a servir seus convidados com todo charme e elegância possível.",
+      "price": "1,00",
+      "category": "cozinha",
+      "images": [
+        "../../assets/products/copo-azul/copo-azul1.png",
+        "../../assets/products/copo-azul/copo-azul2.png",
+        "../../assets/products/copo-azul/copo-azul3.png"
+      ]
+    },
+    {
+      "id": "26",
+      "title": "Cooktop Philco",
+      "description": "Para quem deseja mais modernidade e elegância para sua cozinha, o Cooktop Philco é perfeito! Com 4 queimadores, sendo 1queimador com tripla chama de 3600W, 1 queimador rápido de 3000W e 2 queimadores semi-rápido de 1750W, você prepara as mais diversas receitas com rapidez e eficiência.",
+      "price": "1,00",
+      "category": "cozinha",
+      "images": [
+        "../../assets/products/cooktop/cooktop1.png",
+        "../../assets/products/cooktop/cooktop2.png"
+      ]
+    },
+    {
+      "id": "30",
+      "title": "Cafeteira Ph30 Semi Automático 30 Cafezinhos Philco 110v",
+      "description": "Nada como começar o dia com um delicioso cafezinho, não é mesmo? Tenha a sua incrível Cafeteira Elétrica Philco PH30 com você e seus dias serão sempre melhores! Com o sistema corta-pingo, é possível retirar a jarra enquanto o café está sendo preparado. O reservatório de água com graduação indica o nível de água. Acompanha colher dosadora super útil para dosagem exata do café. Sua jarra é em aço escovado, mais moderna, com capacidade do reservatório de 1,5 Litros e capacidade para 30 cafezinhos.O melhor café do mundo feito com muito carinho por você com ajuda da incrível Cafeteira Elétrica Philco PH30!",
+      "price": "1,00",
+      "category": "cozinha",
+      "images": [
+        "../../assets/products/cafeteira-po/cafeteira-po1.png",
+        "../../assets/products/cafeteira-po/cafeteira-po2.png"
+      ]
+    },
+    {
+      "id": "64",
+      "title": "Mouse sem fio Logitech MX Master 3 - Preto",
+      "description": "Sensor Darkfield para Uso em Qualquer Superfície, Design Ergonômico, Conexão USB ou Bluetooth. Tracking em qualquer superfície - use o MX Master 3 em qualquer superfície - até em vidro - com o sensor atualizado de 8000 DPI com sensibilidade personalizável.",
+      "price": "350,00",
+      "category": "escritorio",
+      "images": [
+        "../../assets/products/log-mouse-mx/log-mouse-mx1.png",
+        "../../assets/products/log-mouse-mx/log-mouse-mx2.png"
+      ]
+    },
+    {
+      "id": "31",
+      "title": "Prateleira Multiuso Carrinho Organizador Auxiliar Café Decor",
+      "description": "O carrinho de armazenamento sobre rodas pode ser movido para qualquer canto da casa para armazenar itens. O design de três camadas fornece uma capacidade de armazenamento relativamente grande para nosso carrinho de armazenamento com rodízio e a capacidade de carga para cada bandeja é de 7,8 kg",
+      "price": "1,00",
+      "category": "casa",
+      "images": [
+        "../../assets/products/carrinho-bege/carrinho-bege1.png",
+        "../../assets/products/carrinho-bege/carrinho-bege2.png",
+        "../../assets/products/carrinho-bege/carrinho-bege3.png",
+        "../../assets/products/carrinho-bege/carrinho-bege4.png"
+      ]
+    },
+    {
+      "id": "34",
+      "title": "Potes tampa bambu",
+      "description": "2 Potes com tampa de babum - biscoitos e café.",
+      "price": "1,00",
+      "category": "cozinha",
+      "images": [
+        "../../assets/products/pote-tampa-bambu/pote-tampa-bambu1.png"
+      ]
+    },
+    {
+      "id": "35",
+      "title": "Potes Vidro Diversos",
+      "description": "Diversos potes de vidros, diferentes tamanhos.",
+      "price": "1,00",
+      "category": "cozinha",
+      "images": [
+        "../../assets/products/potes-vidros/potes-vidros1.png",
+        "../../assets/products/potes-vidros/potes-vidros2.png",
+        "../../assets/products/potes-vidros/potes-vidros3.png",
+        "../../assets/products/potes-vidros/potes-vidros4.png",
+        "../../assets/products/potes-vidros/potes-vidros5.png"
+      ]
+    },
+    {
+      "id": "36",
+      "title": "Meleira de vidro 210ml",
+      "description": "A meleira é um acessório ideal para servir mel com praticidade e elegância. Além de ser perfeita para acompanhar panquecas, waffles e torradas no café da manhã, ela também pode ser utilizada para adicionar o sabor do mel a chás e bebidas quentes. Outra alternativa é utilizá-la como um recipiente para armazenar e servir outros tipos de xaropes, como o de bordo, ou até mesmo para colocar açúcar e adoçar suas bebidas. Com diferentes estilos, a meleira é uma opção funcional e charmosa para quem busca praticidade e sabor em suas refeições.",
+      "price": "1,00",
+      "category": "cozinha",
+      "images": [
+        "../../assets/products/meleira/meleira1.png",
+        "../../assets/products/meleira/meleira2.png",
+        "../../assets/products/meleira/meleira3.png",
+        "../../assets/products/meleira/meleira4.png"
+      ]
+    },
+    {
+      "id": "67",
+      "title": "Logitech MK220 - Kit mouse e teclado",
+      "description": "Combo Teclado e Mouse sem fio Logitech MK220 com Design Compacto, Conexão USB, Pilhas Inclusas e Layout ABNT2 - 920-004431. O teclado é cerca de 36% menor do que os teclados padrão, e ainda assim possui layout ABNT2. Possui conexão sem fio confiável de até 10 metros de distância, praticamente sem atrasos ou interrupções ? mesmo nos ambientes mais movimentados.* A autonomia das pilhas do teclado são de 24 meses e das pilhas do mouse são de 5 meses, significa que você pode ter uma durabilidade de meses sem precisar trocar as pilhas** ? além de suspensão automática quando não estiver em uso.** O MK220 combina perfeitamente com a sua decoração graças ao seu design minimalista.",
+      "price": "60,00",
+      "category": "escritorio",
+      "images": [
+        "../../assets/products/logi-mouse-teclado/logi-mouse-teclado1.png"
+      ]
+    },
+    {
+      "id": "37",
+      "title": "Formas variadas",
+      "description": "Variadas formas para preparo de alimentos doces, salgados.",
+      "price": "1,00",
+      "category": "cozinha",
+      "images": [
+        "../../assets/products/formas/formas1.png",
+        "../../assets/products/formas/formas2.png",
+        "../../assets/products/formas/formas3.png",
+        "../../assets/products/formas/formas4.png",
+        "../../assets/products/formas/formas5.png",
+        "../../assets/products/formas/formas6.png"
+      ]
+    },
+    {
+      "id": "38",
+      "title": "Itens Confeitaria",
+      "description": "Utensílios para confeitaria, tapetes e formas para biscoits, cupcakes, macarons",
+      "price": "1,00",
+      "category": "cozinha",
+      "images": [
+        "../../assets/products/confeitaria/confeitaria1.png",
+        "../../assets/products/confeitaria/confeitaria2.png",
+        "../../assets/products/confeitaria/confeitaria3.png"
+      ]
+    },
+    {
+      "id": "39",
+      "title": "Kit Assadeira/Travessa de Cerâmica Retangular",
+      "description": "A Assadeira de Cerâmica Retangular permite preparar variados tipos de receitas, podendo ser levada ao forno, micro-ondas e lava louças. Além de assar, o refratário é ideal para servir à mesa, deixando-a ainda mais sofisticada e charmosa, propiciando bons e saborosos momentos. Kit com 2 assadeiras de 2 tamanhos diferentes.",
+      "price": "1,00",
+      "category": "cozinha",
+      "images": [
+        "../../assets/products/assadeira-ceramica/assadeira-ceramica1.png"
+      ]
+    },
+    {
+      "id": "62",
+      "title": "Apple Magic Mouse Multi-Touch, Preto",
+      "description": "O Magic Mouse apresenta um design otimizado que se movimenta perfeitamente pela mesa. É possível navegar por documentos e páginas de maneira suave, fazendo gestos simples, isso graças a superfície Multi-Touch.  Ele já vem pronto para o uso com o Mac. A sua bateria também apresenta uma duração bem longa, tendo um mês ou mais entre recargas. O mouse vem acompanhado de um cabo USB para Lightning.",
+      "price": "450,00",
+      "category": "escritorio",
+      "images": [
+        "../../assets/products/apple-mouse-p/apple-mouse-p1.png",
+        "../../assets/products/apple-mouse-p/apple-mouse-p2.png",
+        "../../assets/products/apple-mouse-p/apple-mouse-p3.png"
+      ]
+    },
+    {
+      "id": "40",
+      "title": "Travessa Marinex",
+      "description": "Travessa de vidro quadrada Marinex, com tampa.",
+      "price": "1,00",
+      "category": "cozinha",
+      "images": [
+        "../../assets/products/travessa-quadrada/travessa-quadrada.png"
+      ]
+    },
+    {
+      "id": "41",
+      "title": "Petisqueira",
+      "description": "Petisqueira de ceramica cor preta.",
+      "price": "1,00",
+      "category": "cozinha",
+      "images": [
+        "../../assets/products/petisqueira/petisqueira1.png"
+      ]
+    },
+    {
+      "id": "42",
+      "title": "Boleira",
+      "description": "Boleira de vidro para bolos e doces, sem tampa",
+      "price": "1,00",
+      "category": "cozinha",
+      "images": [
+        "../../assets/products/boleira/boleira1.png"
+      ]
+    },
+    {
+      "id": "65",
+      "title": "Suportes de Mesa para Monitores - ELG",
+      "description": "Suporte para Monitores de Mesa ELG. Furação VESA (HxV): 100x100mm, 75x75mm. Carga máxima: até 7Kg. Base de Fixação tipo morsa. Polegadas compatíveis: 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27. **** VALOR POR UNIDADE ****",
+      "price": "50,00",
+      "category": "escritorio",
+      "images": [
+        "../../assets/products/suporte-monitor/suporte-monitor1.png"
+      ]
+    },
+    {
+      "id": "43",
+      "title": "Travessa",
+      "description": "Travessa de ceramica, tamanho grande, ideal para jantares, frutas.",
+      "price": "1,00",
+      "category": "cozinha",
+      "images": [
+        "../../assets/products/travessa/travessa1.png"
+      ]
+    },
+    {
+      "id": "44",
+      "title": "Conjunto Panelas Inox Tramontina - Fundo Triplo",
+      "description": "Conjunto Panelas Inox Tramontina - Fundo Triplo.",
+      "price": "1,00",
+      "category": "cozinha",
+      "images": [
+        "../../assets/products/conjunto-panelas/conjunto-panelas1.png"
+      ]
+    },
+    {
+      "id": "45",
+      "title": "Pipoqueira",
+      "description": "Pipoqueira de ferro, grande.",
+      "price": "1,00",
+      "category": "cozinha",
+      "images": [
+        "../../assets/products/pipoqueira/pipoqueira1.png"
+      ]
+    },
+    {
+      "id": "66",
+      "title": "Logitech - Mouse com Fio",
+      "description": "Mouse com Fio marca Logitech M90, lacrado.",
+      "price": "12,00",
+      "category": "escritorio",
+      "images": [
+        "../../assets/products/logi-mouse/logi-mouse1.png"
+      ]
+    },
+    {
+      "id": "46",
+      "title": "Organizador Multi Uso",
+      "description": "Oranizador multi uso, ideal para organizar pratos, panelas, formas.",
+      "price": "1,00",
+      "category": "cozinha",
+      "images": [
+        "../../assets/products/organizador/organizador1.png"
+      ]
+    },
+
+    {
+      "id": "47",
+      "title": "Frigideira",
+      "description": "Frigideira anti aderente com tampa de vidro, revestimento muito conservador, praticamente zero.",
+      "price": "1,00",
+      "category": "cozinha",
+      "images": [
+        "../../assets/products/frigideira/frigideira1.png",
+        "../../assets/products/frigideira/frigideira2.png"
+      ]
+    },
+    {
+      "id": "1",
+      "title": "Panela de Pressão Vermelha com Trava de Segurança",
+      "description": "Em ótimo estado de conservação, funcionando perfeitamente. Prontinha para cozinhar aquele feijão com bacon saboroso! Em ótimo estado de conservação, funcionando perfeitamente. Prontinha para cozinhar aquele feijão com banco saboroso!",
+      "price": "33,00",
+      "category": "cozinha",
+      "images": [
+        "../../assets/products/panela-pressao/panela1.png"
+      ]
+    }
+  ]
+}
