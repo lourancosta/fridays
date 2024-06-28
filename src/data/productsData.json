@@ -40,7 +40,7 @@
       "id": "27",
       "title": "Forno De Embutir Elétrico Electrolux OE60M 59 Litros – Preto 127V",
       "description": "59 litros de Capacidade: Forno de embutir compacto para melhor aproveitamento do espaço na cozinha. 3 funções: Para preparar Bolos, Massas, Carnes e Dourar. Função Manter Aquecido: Mantém sua receita quentinha até o momento de servir. Timer com Auto Desligamento: Após atingir o tempo escolhido no timer o forno desliga sozinho, sem precisar se preocupar. Forno com acabamento em esmalte Simple+Clean: Mais facilidade no momento da limpeza, com remoção fácil de manchas e gorduras.",
-      "price": "1,00",
+      "price": "900,00",
       "category": "cozinha",
       "images": [
         "../../assets/products/forno-eletrico/forno-eletrico1.png",
@@ -83,12 +83,17 @@
       "id": "50",
       "title": "Carrinho Multi Uso",
       "description": "O carrinho multiuso com pintura epóxi resistente em aço, possui 3 prateleiras com bordas e fundo de superfície vazada que suportam até 20kg cada prateleira. Seu fundo possui micro furos que eliminam eventuais resíduos líquidos. O carrinho possui alça e rodízios, se tornando prático para locomoção e decorativo em seu ambiente. Ideal para diversos ambientes e para seu negócio como: sala, banheiro, quarto lavanderia, bar, quarto de criança, salão de beleza, oficina e escritório. Basta montar e começar a organizar.",
-      "price": "1,00",
+      "price": "120,00",
       "category": "casa",
       "images": [
         "../../assets/products/carrinho-ferro/carrinho-ferro1.png",
         "../../assets/products/carrinho-ferro/carrinho-ferro2.png",
-        "../../assets/products/carrinho-ferro/carrinho-ferro3.png"
+        "../../assets/products/carrinho-ferro/carrinho-ferro3.png",
+        "../../assets/products/carrinho-ferro/carrinho-ferro4.png",
+        "../../assets/products/carrinho-ferro/carrinho-ferro5.png",
+        "../../assets/products/carrinho-ferro/carrinho-ferro6.png",
+        "../../assets/products/carrinho-ferro/carrinho-ferro7.png",
+        "../../assets/products/carrinho-ferro/carrinho-ferro8.png"
       ]
     },
     {
@@ -129,8 +134,8 @@
     {
       "id": "28",
       "title": "Microondas 30 Litros Philco Pme31 Inox Com Porta Espelhada 127v",
-      "description": "Micro-ondas 30 Litros Philco Pme31 Inox Com Porta Espelhada 127v teclas Fáceis = Kids / Cozinhar performance = Alta Performance De Aquecimento função Timer = Mais Espaço Para Acomodar Os Alimentos função Descongelar = Remove O Odor Do Aquecimento Dos Alimentos display Digital = Fácil Visualização Com Opção De Desligar Display/sound trava De Segurança = Maior Segurança Para A Família. O Teclado Pode Ser bloqueado Para Evitar O Uso Indevido Do Produto Por Crianças. características: • Teclas Fáceis: Kids E Cozinhar • Opções Cozinhar E Cozinhar Por Peso • Opções Descongelar Rápido Ou Descongelar Por Peso • 1400w De Potência Nominal • Função Relógio • Função Timer • Capacidade: 30 Litros • Prato Com Diâmetro De 325 Mm • Trava De Segurança • Disponível Nas Versões 127v E 220v • Garantia De 01 Ano • Classe B • Porta De Vidro Espelhado função Timer: Permite Programar O Horário De Início Do preparo Com Antecedência trava De Segurança: Permite O Bloqueio Do Teclado Para evitar O Uso Do Aparelho Por Crianças. função Potência: Permite Escolher O Nível De Potência desejada Para Cada Alimento acessórios : suporte E Prato Giratórios.",
-      "price": "1,00",
+      "description": "Micro-ondas 30 Litros Philco Pme31 Inox Com Porta Espelhada 127v teclas Fáceis = Kids / Cozinhar performance = Alta Performance De Aquecimento função Timer = Mais Espaço Para Acomodar Os Alimentos função Descongelar = Remove O Odor Do Aquecimento Dos Alimentos display Digital = Fácil Visualização Com Opção De Desligar Display/sound trava De Segurança = Maior Segurança Para A Família. O Teclado Pode Ser bloqueado Para Evitar O Uso Indevido Do Produto Por Crianças.",
+      "price": "200,00",
       "category": "cozinha",
       "images": [
         "../../assets/products/microondas/microondas1.png",
@@ -144,7 +149,7 @@
       "id": "29",
       "title": "Mini ME Dolce Gusto",
       "description": "Automática Máquina de café vermelha e preta - 127v.",
-      "price": "1,00",
+      "price": "150,00",
       "category": "cozinha",
       "images": [
         "../../assets/products/cafeteira-capsula/cafeteira-capsula1.png",
@@ -195,7 +200,7 @@
       "id": "32",
       "title": "Lava e Seca LG - Inverter Direct Drive 11 / 6 Kg",
       "description": "Lavadora e secadora LG -  lava 11 Kg e seca 6 kg",
-      "price": "1,00",
+      "price": "1.800,00",
       "category": "casa",
       "images": [
         "../../assets/products/lavaseca/lavaseca1.png",
@@ -208,7 +213,7 @@
       "id": "33",
       "title": "Bandeja de Bambu Retangular com Alça",
       "description": "Componha com muito mais estilo e requinte na hora de servir ou decorar com a Bandeja de Bambu Retangular com Alça. Para festas, encontros, jantares, ela proporciona charme e elegância para sua decoração.",
-      "price": "1,00",
+      "price": "30,00",
       "category": "casa",
       "images": [
         "../../assets/products/bandejabambu/bandejabambu1.png",
@@ -219,7 +224,7 @@
       "id": "2",
       "title": "Conjunto de Copos de Vidro - Tamanho Médio",
       "description": "10 copos de vidro tamanho médio, vidro de boa qualidade e resistente.",
-      "price": "20,00",
+      "price": "30,00",
       "category": "cozinha",
       "images": [
         "../../assets/products/copos-vidros/copo1.png",
@@ -240,9 +245,9 @@
     },
     {
       "id": "4",
-      "title": "Conjunto Potes de Vidro Marinex - Pequeno Redondo",
+      "title": "Marinex redonda com tampa",
       "description": "Conjunto de 3 Potes de vidro redondos da marca Marinex, tamanho pequeno!",
-      "price": "1,00",
+      "price": "30,00",
       "category": "cozinha",
       "images": [
         "../../assets/products/potes-tampa-azul/potes-tampa-azul1.png",
@@ -252,9 +257,9 @@
     },
     {
       "id": "5",
-      "title": "Conjunto Potes de Vidro Marinex - Pequeno Retangular",
+      "title": "Marinex retangular com tampa 750 ml",
       "description": "Conjunto de 4 Potes de vidro retangulares da marca Marinex, tamanho pequeno!",
-      "price": "1,00",
+      "price": "40,00",
       "category": "cozinha",
       "images": [
         "../../assets/products/potes-retangulares/potes-retangulares1.pn.png",
@@ -265,9 +270,9 @@
     },
     {
       "id": "6",
-      "title": "Pote de Vidro - Pequeno Quadrado Tampa Vermelha",
-      "description": "1 Pote de vidro quadrado, tamanho pequeno!",
-      "price": "1,00",
+      "title": "Nadir quadrada com tampa 500ml",
+      "description": "1 Pote de vidro quadrado Nadir, com tampa, tamanho pequeno!",
+      "price": "10,00",
       "category": "cozinha",
       "images": [
         "../../assets/products/pote-quadrado-vermelho/pote-quadrado-vermelho1.png",
@@ -288,9 +293,9 @@
     },
     {
       "id": "7",
-      "title": "Conjunto Potes de Vidro Marinex - Pequeno",
+      "title": "Marinex quadrada com tampa 300ml",
       "description": "Conjunto de 2 Potes de Vidro da marca Marinex Quadrado, tamanho pequeno!",
-      "price": "1,00",
+      "price": "20,00",
       "category": "cozinha",
       "images": [
         "../../assets/products/pote-quadrado-azul/pote-quadrado-azul1.png",
@@ -299,9 +304,9 @@
     },
     {
       "id": "8",
-      "title": "Conjunto Potes Hermeticos de Vidro",
+      "title": "Conjunto Potes Hermetico Quadrado Vidro, P e M",
       "description": "Conjunto de 2 Potes de Vidro Hermeticos Quadrado",
-      "price": "1,00",
+      "price": "10,00",
       "category": "cozinha",
       "images": [
         "../../assets/products/pote-hermetico/pote-hermetico1.png",
@@ -312,7 +317,7 @@
       "id": "9",
       "title": "Canecas Variadas",
       "description": "Conjunto de canecas variadas",
-      "price": "1,00",
+      "price": "20,00",
       "category": "cozinha",
       "images": [
         "../../assets/products/canecas-variadas/canecas-variadas1.png",
@@ -323,7 +328,7 @@
       "id": "10",
       "title": "Aparelho de Jantar e Chá Oxford Mail Order Luiza com 20 Peças",
       "description": "Lúdico e natural: assim é o modelo Floreal. Em meio às construções do centro histórico de São Luís do Maranhão encontramos as cores e formas que inspiraram essa decoração. O aparelho de jantar Floreal Luiza da Oxford buscou referências nos azulejos coloridos e nas texturas diferenciadas presentes nos monumentos do local.",
-      "price": "1,00",
+      "price": "90,00",
       "category": "cozinha",
       "images": [
         "../../assets/products/aparelho-jantar/aparelho-jantar1.png",
@@ -338,8 +343,8 @@
     {
       "id": "11",
       "title": "Supla Descanso Prato Mesa De Jantar Posta Decoração Versátil Pratico Redondo",
-      "description": "2 Jogos de supla para jantar, com 6 peças cada cor.",
-      "price": "1,00",
+      "description": "2 Jogos de supla para jantar, com 6 peças cada cor. **** Para Venda separada dos jogos: Verde Escuro R$30,00 | Verde Claro (com madeira) R$40,00 ****",
+      "price": "70,00",
       "category": "cozinha",
       "images": [
         "../../assets/products/conjunto-suplas/conjunto-suplas1.png",
@@ -352,7 +357,7 @@
       "id": "12",
       "title": "Jarra de Vidro",
       "description": "1 jarra de vidro, capacidade 1 litro.",
-      "price": "1,00",
+      "price": "15,00",
       "category": "cozinha",
       "images": [
         "../../assets/products/jarra-vidro/jarra-vidro1.png"
@@ -375,7 +380,7 @@
       "id": "13",
       "title": "Coqueteleira Kit",
       "description": "Kit coqueteleira para preparo de bebeidas de Inox.",
-      "price": "1,00",
+      "price": "15,00",
       "category": "cozinha",
       "images": [
         "../../assets/products/coqueteleira/coqueteleira1.png",
@@ -396,7 +401,7 @@
       "id": "14",
       "title": "Jogo De Taças Para Vinho Cristal - 580ml",
       "description": "Jogo de Taças para Vinho Cristal 580ml, com 6 peças. é um conjunto de taças de vinho de alta qualidade, fabricadas em cristal. Essas taças são projetadas com precisão para realçar a experiência de degustação de vinho, permitindo que os apreciadores de vinho desfrutem plenamente dos aromas, sabores e características da bebida.",
-      "price": "1,00",
+      "price": "40,00",
       "category": "cozinha",
       "images": [
         "../../assets/products/tacas-vinho/tacas-vinho1.png",
@@ -407,8 +412,8 @@
     {
       "id": "15",
       "title": "Kit Cinema Star Wars",
-      "description": "Kit recipientes para cinema - pipoca e bebida. Conjunto com dois balde e um campo",
-      "price": "1,00",
+      "description": "Kit recipientes para cinema - pipoca e bebida. Conjunto com dois balde e um campo.",
+      "price": "10,00",
       "category": "cozinha",
       "images": [
         "../../assets/products/kit-cinema/kit-cinema1.png",
@@ -419,7 +424,7 @@
       "id": "16",
       "title": "Grill Mondial",
       "description": "Grill Mondial Premium",
-      "price": "1,00",
+      "price": "50,00",
       "category": "cozinha",
       "images": [
         "../../assets/products/grill/grill1.png",
@@ -442,7 +447,7 @@
       "id": "55",
       "title": "Suporte Para Garrafa Home Style Arhus 20cm x 36cm",
       "description": "PRETO, UNICO, Capacidade 6 GARRAFAS.Suportes de garrafas são essenciais para apreciadores de qualquer bebida. Mantenha suas garrafas organizadas com estilo no bar, cozinha ou sala de estar, fazendo a peça se completar à sua decoração. O Suporte para Garrafas Arhus, tem nichos que acomodam até 6 garrafas, produzido em metal e madeira, duas matérias primas de qualidade, durabilidade e estética rústica.",
-      "price": "1,00",
+      "price": "60,00",
       "category": "casa",
       "images": [
         "../../assets/products/suporte-garrafas/suporte-garrafas1.png",
@@ -455,7 +460,7 @@
       "id": "17",
       "title": "Caneca Térmica Ember - Copper Edition",
       "description": "Ember 2 - Copper Edition:  caneca térmica, nova nunca usada. Smart copo controlado por temperatura 14 oz IPX7 LED aço inoxidável cobre. Mantenha seu café ou chá aquecidos por muito mais tempo.",
-      "price": "1,00",
+      "price": "50,00",
       "category": "cozinha",
       "images": [
         "../../assets/products/caneca-termica/caneca-termica1.png",
@@ -468,7 +473,7 @@
       "id": "18",
       "title": "Extrator de Sucos Turbo Premium, Mondial, Preto/Inox, 250W, Bivolt - E-10",
       "description": "Com o Extrator de Sucos Turbo 250W Premium Mondial E-10, você vai preparar sucos naturais com muito mais praticidade. Com 250W de potência, o extrator vem com dois cones para a extração de sucos de laranja e limão. Possui motor blindado com proteção térmica, dupla rotação e é Bivolt. Acompanha copo com peneira para facilitar os preparos.",
-      "price": "1,00",
+      "price": "50,00",
       "category": "cozinha",
       "images": [
         "../../assets/products/extrator-suco/extrator-suco1.png",
@@ -480,7 +485,7 @@
       "id": "19",
       "title": "Balança Portátil",
       "description": "Balança Portátil de Cozinha",
-      "price": "1,00",
+      "price": "5,00",
       "category": "cozinha",
       "images": [
         "../../assets/products/balanca/balanca1.png",
@@ -491,7 +496,7 @@
       "id": "20",
       "title": "Multiprocessador Philco",
       "description": "Perfeito para todos os mais variados preparos em apenas um único lugar! *** Não possui copo liquidificador ***",
-      "price": "1,00",
+      "price": "40,00",
       "category": "cozinha",
       "images": [
         "../../assets/products/multiprocessador/multiprocessador1.png",
@@ -500,9 +505,9 @@
     },
     {
       "id": "21",
-      "title": "Recipientes",
+      "title": "Jogo 5 bowls inox",
       "description": "5 recipientes inox, tamanhos variados.",
-      "price": "1,00",
+      "price": "20,00",
       "category": "cozinha",
       "images": [
         "../../assets/products/recipientes-inox/recipientes-inox1.png",
@@ -512,8 +517,8 @@
     {
       "id": "22",
       "title": "Bowls - Tijelas",
-      "description": "2 conjuntos de 2 bowls.",
-      "price": "1,00",
+      "description": "2 conjuntos de 2 bowls. R$20,00 cada dupla",
+      "price": "40,00",
       "category": "cozinha",
       "images": [
         "../../assets/products/bowls/bowls1.png",
@@ -523,9 +528,9 @@
     },
     {
       "id": "23",
-      "title": "Descanso de panela redondo de bambu jogo 5 unidades protege sua mesa",
+      "title": "Descanso de panela bamboo - 5 peças",
       "description": "Kit c/ 5 Descanso De Panela com cor Bambu Protege sua Mesa e bancada Com os descansos de panela no padrão bambu, sua mesa de jantar ou bancada terão o toque de charme ideal para receber amigos ou família para aquela confraternização em volta da mesa. Este kit vai compor a sua mesa de forma muito prática na hora de servir uma refeição. Descrição técnica: Medidas: 16,5 x 16,5cm Material: Madeira que imita bambu Quantidade: 5 unidades Formato : Redondo",
-      "price": "1,00",
+      "price": "20,00",
       "category": "cozinha",
       "images": [
         "../../assets/products/descanso-panela/descanso-panela1.png",
@@ -536,8 +541,8 @@
     {
       "id": "24",
       "title": "Conjuntos Hashi's Sushi 2 Jogos de 4 Pares - Comprados na China",
-      "description": "2 Jogos de 4 Pares de Hashi - Comprados na China",
-      "price": "1,00",
+      "description": "2 Jogos de 4 Pares de Hashi - Comprados na China. **** Para venda separada: R$20,00 jogo caixa vermelha | R$10,00 jogo caixa branca ****",
+      "price": "30,00",
       "category": "cozinha",
       "images": [
         "../../assets/products/hashi/hashi1.png",
@@ -549,21 +554,20 @@
     },
     {
       "id": "25",
-      "title": "Jogo de Taças (copos) de Vidro 330ml 6 Peças Haus",
+      "title": "Jogo de Taças (copos) de Vidro 200ml 6 Peças - Haus",
       "description": "Grandes momentos ao lado de amigos, ou mesmo no dia a dia, contar com utensílios corretos para cada ocasião faz toda a diferença não é mesmo? Por isso vale a pena conferir o Jogo de Taças Bico de Jaca Empire, da Haus. Um lindo jogo composto por 6 belíssimas taças, que certamente encantarão seus convidados pelo requinte. Ideal para diversas bebidas essas taças tem uma capacidade de 330ml e são feitas de vidro, contribuindo para a decoração da mesa e ajudando a servir seus convidados com todo charme e elegância possível.",
-      "price": "1,00",
+      "price": "30,00",
       "category": "cozinha",
       "images": [
         "../../assets/products/copo-azul/copo-azul1.png",
-        "../../assets/products/copo-azul/copo-azul2.png",
-        "../../assets/products/copo-azul/copo-azul3.png"
+        "../../assets/products/copo-azul/copo-azul2.png"
       ]
     },
     {
       "id": "26",
       "title": "Cooktop Philco",
       "description": "Para quem deseja mais modernidade e elegância para sua cozinha, o Cooktop Philco é perfeito! Com 4 queimadores, sendo 1queimador com tripla chama de 3600W, 1 queimador rápido de 3000W e 2 queimadores semi-rápido de 1750W, você prepara as mais diversas receitas com rapidez e eficiência.",
-      "price": "1,00",
+      "price": "200,00",
       "category": "cozinha",
       "images": [
         "../../assets/products/cooktop/cooktop1.png",
@@ -572,9 +576,9 @@
     },
     {
       "id": "30",
-      "title": "Cafeteira Ph30 Semi Automático 30 Cafezinhos Philco 110v",
+      "title": "Cafeteira PH30 Semi Automático 30 Cafezinhos Philco 110v",
       "description": "Nada como começar o dia com um delicioso cafezinho, não é mesmo? Tenha a sua incrível Cafeteira Elétrica Philco PH30 com você e seus dias serão sempre melhores! Com o sistema corta-pingo, é possível retirar a jarra enquanto o café está sendo preparado. O reservatório de água com graduação indica o nível de água. Acompanha colher dosadora super útil para dosagem exata do café. Sua jarra é em aço escovado, mais moderna, com capacidade do reservatório de 1,5 Litros e capacidade para 30 cafezinhos.O melhor café do mundo feito com muito carinho por você com ajuda da incrível Cafeteira Elétrica Philco PH30!",
-      "price": "1,00",
+      "price": "70,00",
       "category": "cozinha",
       "images": [
         "../../assets/products/cafeteira-po/cafeteira-po1.png",
@@ -596,7 +600,7 @@
       "id": "31",
       "title": "Prateleira Multiuso Carrinho Organizador Auxiliar Café Decor",
       "description": "O carrinho de armazenamento sobre rodas pode ser movido para qualquer canto da casa para armazenar itens. O design de três camadas fornece uma capacidade de armazenamento relativamente grande para nosso carrinho de armazenamento com rodízio e a capacidade de carga para cada bandeja é de 7,8 kg",
-      "price": "1,00",
+      "price": "90,00",
       "category": "casa",
       "images": [
         "../../assets/products/carrinho-bege/carrinho-bege1.png",
@@ -608,8 +612,8 @@
     {
       "id": "34",
       "title": "Potes tampa bambu",
-      "description": "2 Potes com tampa de babum - biscoitos e café.",
-      "price": "1,00",
+      "description": "2 Potes com tampa de babum - biscoitos e café. R$30,00 cada.",
+      "price": "60,00",
       "category": "cozinha",
       "images": [
         "../../assets/products/pote-tampa-bambu/pote-tampa-bambu1.png"
@@ -618,8 +622,8 @@
     {
       "id": "35",
       "title": "Potes Vidro Diversos",
-      "description": "Diversos potes de vidros, diferentes tamanhos.",
-      "price": "1,00",
+      "description": "Diversos potes de vidros, diferentes tamanhos. *** Venda separada: R$40,00 Potes com escritos | R$20,00 pote tampa inox | R$20,00 pote tampa bege (2un) | R$20,00 potes tampa laranja e tampa branca | R$50,00 potes tampa galo ***",
+      "price": "150,00",
       "category": "cozinha",
       "images": [
         "../../assets/products/potes-vidros/potes-vidros1.png",
@@ -633,7 +637,7 @@
       "id": "36",
       "title": "Meleira de vidro 210ml",
       "description": "A meleira é um acessório ideal para servir mel com praticidade e elegância. Além de ser perfeita para acompanhar panquecas, waffles e torradas no café da manhã, ela também pode ser utilizada para adicionar o sabor do mel a chás e bebidas quentes. Outra alternativa é utilizá-la como um recipiente para armazenar e servir outros tipos de xaropes, como o de bordo, ou até mesmo para colocar açúcar e adoçar suas bebidas. Com diferentes estilos, a meleira é uma opção funcional e charmosa para quem busca praticidade e sabor em suas refeições.",
-      "price": "1,00",
+      "price": "10,00",
       "category": "cozinha",
       "images": [
         "../../assets/products/meleira/meleira1.png",
@@ -655,8 +659,8 @@
     {
       "id": "37",
       "title": "Formas variadas",
-      "description": "Variadas formas para preparo de alimentos doces, salgados.",
-      "price": "1,00",
+      "description": "Variadas formas para preparo de alimentos doces, salgados. *** Venda separada: R$10,00 cada, exceto forma com teflon R$20,00 ***",
+      "price": "60,00",
       "category": "cozinha",
       "images": [
         "../../assets/products/formas/formas1.png",
@@ -670,8 +674,8 @@
     {
       "id": "38",
       "title": "Itens Confeitaria",
-      "description": "Utensílios para confeitaria, tapetes e formas para biscoits, cupcakes, macarons",
-      "price": "1,00",
+      "description": "Utensílios para confeitaria, tapetes e formas para biscoits, cupcakes, macarons. *** Venda separada R$20,00 cada ***",
+      "price": "60,00",
       "category": "cozinha",
       "images": [
         "../../assets/products/confeitaria/confeitaria1.png",
@@ -681,9 +685,9 @@
     },
     {
       "id": "39",
-      "title": "Kit Assadeira/Travessa de Cerâmica Retangular",
+      "title": "Kit Assadeira/Travessa de Cerâmica Retangular 2 peças M/P",
       "description": "A Assadeira de Cerâmica Retangular permite preparar variados tipos de receitas, podendo ser levada ao forno, micro-ondas e lava louças. Além de assar, o refratário é ideal para servir à mesa, deixando-a ainda mais sofisticada e charmosa, propiciando bons e saborosos momentos. Kit com 2 assadeiras de 2 tamanhos diferentes.",
-      "price": "1,00",
+      "price": "80,00",
       "category": "cozinha",
       "images": [
         "../../assets/products/assadeira-ceramica/assadeira-ceramica1.png"
@@ -703,9 +707,9 @@
     },
     {
       "id": "40",
-      "title": "Travessa Marinex",
-      "description": "Travessa de vidro quadrada Marinex, com tampa.",
-      "price": "1,00",
+      "title": "Travessa Marinex 1,8L",
+      "description": "Travessa de vidro quadrada Marinex, com tampa, 1,8L.",
+      "price": "30,00",
       "category": "cozinha",
       "images": [
         "../../assets/products/travessa-quadrada/travessa-quadrada.png"
@@ -715,7 +719,7 @@
       "id": "41",
       "title": "Petisqueira",
       "description": "Petisqueira de ceramica cor preta.",
-      "price": "1,00",
+      "price": "30,00",
       "category": "cozinha",
       "images": [
         "../../assets/products/petisqueira/petisqueira1.png"
@@ -724,8 +728,8 @@
     {
       "id": "42",
       "title": "Boleira",
-      "description": "Boleira de vidro para bolos e doces, sem tampa",
-      "price": "1,00",
+      "description": "Bandeja de bolo vidro",
+      "price": "30,00",
       "category": "cozinha",
       "images": [
         "../../assets/products/boleira/boleira1.png"
@@ -743,9 +747,9 @@
     },
     {
       "id": "43",
-      "title": "Travessa",
+      "title": "Travessa/Saladeira Grande",
       "description": "Travessa de ceramica, tamanho grande, ideal para jantares, frutas.",
-      "price": "1,00",
+      "price": "100,00",
       "category": "cozinha",
       "images": [
         "../../assets/products/travessa/travessa1.png"
@@ -755,7 +759,7 @@
       "id": "44",
       "title": "Conjunto Panelas Inox Tramontina - Fundo Triplo",
       "description": "Conjunto Panelas Inox Tramontina - Fundo Triplo.",
-      "price": "1,00",
+      "price": "400,00",
       "category": "cozinha",
       "images": [
         "../../assets/products/conjunto-panelas/conjunto-panelas1.png"
@@ -765,7 +769,7 @@
       "id": "45",
       "title": "Pipoqueira",
       "description": "Pipoqueira de ferro, grande.",
-      "price": "1,00",
+      "price": "80,00",
       "category": "cozinha",
       "images": [
         "../../assets/products/pipoqueira/pipoqueira1.png"
@@ -785,7 +789,7 @@
       "id": "46",
       "title": "Organizador Multi Uso",
       "description": "Oranizador multi uso, ideal para organizar pratos, panelas, formas.",
-      "price": "1,00",
+      "price": "10,00",
       "category": "cozinha",
       "images": [
         "../../assets/products/organizador/organizador1.png"
@@ -796,7 +800,7 @@
       "id": "47",
       "title": "Frigideira",
       "description": "Frigideira anti aderente com tampa de vidro, revestimento muito conservador, praticamente zero.",
-      "price": "1,00",
+      "price": "80,00",
       "category": "cozinha",
       "images": [
         "../../assets/products/frigideira/frigideira1.png",
@@ -807,7 +811,7 @@
       "id": "1",
       "title": "Panela de Pressão Vermelha com Trava de Segurança",
       "description": "Em ótimo estado de conservação, funcionando perfeitamente. Prontinha para cozinhar aquele feijão com bacon saboroso! Em ótimo estado de conservação, funcionando perfeitamente. Prontinha para cozinhar aquele feijão com banco saboroso!",
-      "price": "33,00",
+      "price": "50,00",
       "category": "cozinha",
       "images": [
         "../../assets/products/panela-pressao/panela1.png"
