@@ -6,8 +6,9 @@
     <div
       class="image"
       *ngFor="let image of galleryImages; let i = index"
-      (changeThumbImage)="changeThumbImage"
     >
-      <img class="img-small" src="{{ image }}"/>
+      <button class="image-button" id="{{ i }}" (click)="changeThumbImage(i, galleryImages)">
+        <img class="small-images" src="{{ image }}"/>
+      </button>
     </div>
 </div>

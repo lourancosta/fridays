@@ -16,25 +16,25 @@ export class ProductsService {
   constructor() { }
 
   getAllProducts() {
-    return this.initialProductsList
+    return this.initialProductsList;
   }
 
   getProductsByCategory(filterCategory: string) {
-    this.productsList = this.initialProductsList
+    this.productsList = this.initialProductsList;
 
     if (filterCategory == 'todos') {
-      return this.productsList
+      return this.productsList;
     } else {
       this.productListByCategory = this.initialProductsList.filter((product: any) => product.category === filterCategory)
 
       if (this.productListByCategory.length >= 1) {
-        return this.productListByCategory
+        return this.productListByCategory;
       }
     }
   }
 
   getProductById(id: string) {
-    this.product = this.initialProductsList.find((product: any)  => product.id === id)
-    return this.product
+    this.product = this.initialProductsList.find((product: any) => product.id === id);
+    return this.product;
   }
 }

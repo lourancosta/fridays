@@ -1,4 +1,4 @@
-import { Component, OnInit, Input, SimpleChanges } from '@angular/core';
+import { Component, OnInit, Input } from '@angular/core';
 import { NgFor } from '@angular/common';
 
 @Component({
@@ -19,25 +19,12 @@ export class PhotoGalleryComponent implements OnInit {
 
   constructor() { }
 
-  ngOnInit() {
+  async ngOnInit() {
     this.galleryImages = this.images;
-
-    // this.changeThumbImage(this.galleryImages);
   }
 
-  ngOnChanges(changes: SimpleChanges): void {
-    this.changeThumbImage();
+  changeThumbImage(index: number, images: string[]) {
+    let thumb: any = document.querySelector('.thumb');
+    thumb.src = images[index]
   }
-
-  changeThumbImage() {
-    let thumb: any = document.querySelector('img.thumb');
-    let imgSmall: any = document.querySelectorAll('img.img-small');
-
-    imgSmall.forEach(function(el: any) {
-      el.addEventListener('click', function () {
-        thumb.src = el.src;
-      });
-    });
-  }
-
 }

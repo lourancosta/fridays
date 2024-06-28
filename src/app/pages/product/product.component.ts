@@ -25,6 +25,7 @@ import { ProductsService } from 'src/app/services/products.service';
 
 export class ProductComponent implements OnInit {
   product: any;
+  galleryImages: [] = [];
 
   constructor(
     private route: ActivatedRoute,
@@ -32,13 +33,13 @@ export class ProductComponent implements OnInit {
   ) {}
 
   ngOnInit() {
-    const id: any = this.route.snapshot.paramMap.get('id')
-    this.product = this.searchProductById(id)
+    const id: any = this.route.snapshot.paramMap.get('id');
+    this.product = this.searchProductById(id);
   }
 
   searchProductById(id: string) {
-    this.product  = this.productsService.getProductById(id)
-    return this.product
+    this.product = this.productsService.getProductById(id);
+    return this.product;
   }
 
 }
