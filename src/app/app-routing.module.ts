@@ -9,6 +9,10 @@ const routes: Routes = [
     path: "",
     component: HomeComponent
   },
+  // {
+  //   path: "/:category",
+  //   component: HomeComponent
+  // },
   {
     path: 'product/:id',
     component: ProductComponent

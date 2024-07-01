@@ -117,7 +117,7 @@
       "id": "53",
       "title": "Headphone Sony WH-1000XM5",
       "description": "Os melhores fones de ouvido sem fio com cancelamento de ruído com otimizador de cancelamento de ruído automático, chamadas mãos-livres cristalinas e controle de voz Alexa, preto. Maiores detalhes técnicos na ultima foto.",
-      "price": "1.300,00",
+      "price": "1.900,00",
       "category": "eletronico",
       "images": [
         "../../assets/products/headphone-sony/headphone-sony1.png",
@@ -305,7 +305,7 @@
     {
       "id": "68",
       "title": "Smart TV 55” Crystal 4K Samsung 55AU7700 - Wi-Fi Bluetooth HDR Alexa Built in 3 HDMI 1 USB",
-      "description": "Se você procura uma TV para assistir filmes, séries, novelas e até mesmo jogar seus games favoritos com a melhor qualidade possível, a Smart TV UN55AU7700GXZD da Samsung é o modelo ideal para a sua casa! Ela possui tela de 55 polegadas Crystal 4K com painel VA, oferecendo cores vivas e imagens impressionantes de qualquer ângulo. As bordas super finas aumentam ainda mais o campo de visão e destacam apenas as imagens que você quer ver. Seu design elegante contribui para deixar o ambiente mais organizado, pois conta com canaletas exclusivas para organizar e esconder os fios. O sistema operacional Tizen traz mais praticidade e permite comandar a TV por voz através de assistentes integrados como Bixby, Alexa. Um dos grandes destaques deste modelo é o controle remoto único desenvolvido pela Samsung. Com ele você pode controlar todos os aparelhos compatíveis conectados a TV e acessar aplicativos com um único botão de atalho. Além disso, esta smart TV oferece outras vantagens como entradas HDMI e USB, conectividades wi-fi e bluetooth e embalagem reutilizável.",
+      "description": "**** TV COM 1 ANO DE USO APENAS **** Se você procura uma TV para assistir filmes, séries, novelas e até mesmo jogar seus games favoritos com a melhor qualidade possível, a Smart TV UN55AU7700GXZD da Samsung é o modelo ideal para a sua casa! Ela possui tela de 55 polegadas Crystal 4K com painel VA, oferecendo cores vivas e imagens impressionantes de qualquer ângulo. As bordas super finas aumentam ainda mais o campo de visão e destacam apenas as imagens que você quer ver. Seu design elegante contribui para deixar o ambiente mais organizado, pois conta com canaletas exclusivas para organizar e esconder os fios. O sistema operacional Tizen traz mais praticidade e permite comandar a TV por voz através de assistentes integrados como Bixby, Alexa. Um dos grandes destaques deste modelo é o controle remoto único desenvolvido pela Samsung. Com ele você pode controlar todos os aparelhos compatíveis conectados a TV e acessar aplicativos com um único botão de atalho. Além disso, esta smart TV oferece outras vantagens como entradas HDMI e USB, conectividades wi-fi e bluetooth e embalagem reutilizável.",
       "price": "1.600,00",
       "category": "eletronico",
       "images": [
@@ -774,7 +774,7 @@
       "id": "44",
       "title": "Conjunto Panelas Inox Tramontina - Fundo Triplo",
       "description": "Conjunto Panelas Inox Tramontina - Fundo Triplo.",
-      "price": "400,00",
+      "price": "200,00",
       "category": "cozinha",
       "images": [
         "../../assets/products/conjunto-panelas/conjunto-panelas1.png"
@@ -823,13 +823,694 @@
       ]
     },
     {
-      "id": "1",
-      "title": "Panela de Pressão Vermelha com Trava de Segurança",
-      "description": "Em ótimo estado de conservação, funcionando perfeitamente. Prontinha para cozinhar aquele feijão com bacon saboroso! Em ótimo estado de conservação, funcionando perfeitamente. Prontinha para cozinhar aquele feijão com banco saboroso!",
+      "id": "69",
+      "title": "Mesa Escritório - Tampo Madeira",
+      "description": "Mesa com tampo de madeira maciça e bases de ferro. 160cm x 60cm",
+      "price": "700,00",
+      "category": "escritorio",
+      "images": [
+        "../../assets/products/mesa-officel/mesa-officel1.png",
+        "../../assets/products/mesa-officel/mesa-officel2.png"
+      ]
+    },
+    {
+      "id": "70",
+      "title": "Luminária Tok-Stok para Escritório / Casa",
+      "description": "LUMINÁRIA DE MESA HOIST para mesa escritório e/ou casa, cor preta, marca tok-stok. 58cm de altura, angulo de luz ajustavvel",
+      "price": "80,00",
+      "category": "escritorio",
+      "images": [
+        "../../assets/products/luminaria-ts/luminaria-ts1.png",
+        "../../assets/products/luminaria-ts/luminaria-ts2.png",
+        "../../assets/products/luminaria-ts/luminaria-ts3.png",
+        "../../assets/products/luminaria-ts/luminaria-ts4.png"
+      ]
+    },
+    {
+      "id": "71",
+      "title": "Monitor Curvo WQHD 34 polegadas Dell S3422DWG",
+      "description": "Monitor curvo WQHD de 34” com VESA DisplayHDR 400 e taxa de atualização de 144 Hz que proporciona uma experiência gamer realmente imersiva. Opção de ser vendido com braço ELG articulado a gás, adicionar R$120,00",
+      "price": "2.200,00",
+      "category": "eletronico",
+      "images": [
+        "../../assets/products/monitor-dell34/monitor-dell341.png",
+        "../../assets/products/monitor-dell34/monitor-dell342.png",
+        "../../assets/products/monitor-dell34/monitor-dell343.png",
+        "../../assets/products/monitor-dell34/monitor-dell344.png",
+        "../../assets/products/monitor-dell34/monitor-dell345.png",
+        "../../assets/products/monitor-dell34/monitor-dell346.png",
+        "../../assets/products/monitor-dell34/monitor-dell347.png",
+        "../../assets/products/monitor-dell34/monitor-dell348.png",
+        "../../assets/products/monitor-dell34/monitor-dell349.png"
+      ]
+    },
+    {
+      "id": "72",
+      "title": "Suporte notebook",
+      "description": "Suporte para notebook de ferro, preto",
+      "price": "30,00",
+      "category": "escritorio",
+      "images": [
+        "../../assets/products/suporte-notebook/suporte-notebook1.png",
+        "../../assets/products/suporte-notebook/suporte-notebook2.png"
+      ]
+    },
+    {
+      "id": "73",
+      "title": "Poltronas",
+      "description": "2 poltronas para sala, giratório, pés de ferro. valor unidade.",
+      "price": "700,00",
+      "category": "moveis",
+      "images": [
+        "../../assets/products/poltronas/poltronas1.png",
+        "../../assets/products/poltronas/poltronas2.png",
+        "../../assets/products/poltronas/poltronas3.png",
+        "../../assets/products/poltronas/poltronas4.png"
+      ]
+    },
+    {
+      "id": "74",
+      "title": "Mesas para ambientes",
+      "description": "3 mesas para ambientes, alturas difeferentes, valor conjunto. Valores separados: R$300, de centro (mais baixa), R$200,00 demais.",
+      "price": "700,00",
+      "category": "moveis",
+      "images": [
+        "../../assets/products/mesas/mesas1.png"
+      ]
+    },
+    {
+      "id": "75",
+      "title": "Nicho aparador",
+      "description": "Nicho aparador para sala, sala de jantar, escritório.",
+      "price": "300,00",
+      "category": "moveis",
+      "images": [
+        "../../assets/products/nicho-aparador/nicho-aparador1.png"
+      ]
+    },
+    {
+      "id": "76",
+      "title": "Mesa de Jantar com 6 cadeiras",
+      "description": "Mesa de jantar com 6 cadeiras de madeira com estofado, mesa está com vidro trincado",
+      "price": "2.000,00",
+      "category": "moveis",
+      "images": [
+        "../../assets/products/mesa-jantar/mesa-jantar01.png",
+        "../../assets/products/mesa-jantar/mesa-jantar02.png",
+        "../../assets/products/mesa-jantar/mesa-jantar03.png",
+        "../../assets/products/mesa-jantar/mesa-jantar04.png",
+        "../../assets/products/mesa-jantar/mesa-jantar05.png",
+        "../../assets/products/mesa-jantar/mesa-jantar06.png",
+        "../../assets/products/mesa-jantar/mesa-jantar07.png",
+        "../../assets/products/mesa-jantar/mesa-jantar08.png",
+        "../../assets/products/mesa-jantar/mesa-jantar09.png",
+        "../../assets/products/mesa-jantar/mesa-jantar10.png",
+        "../../assets/products/mesa-jantar/mesa-jantar11.png"
+      ]
+    },
+    {
+      "id": "78",
+      "title": "Quadro Mapa Mundi - 120cm x 80cm",
+      "description": "Quadro mapa mundi, moldura caixote - 120cm x 80cm.",
+      "price": "100,00",
+      "category": "casa",
+      "images": [
+        "../../assets/products/quadro-mapa/quadro-mapa1.png"
+      ]
+    },
+    {
+      "id": "79",
+      "title": "Grades para Pet",
+      "description": "2 grades móveis para pets, ideal para animais de porte pequeno, limitando o acesso a ambientes, materia:l ferro.",
+      "price": "40,00",
+      "category": "outros",
+      "images": [
+        "../../assets/products/grades-pets/grades-pets1.png",
+        "../../assets/products/grades-pets/grades-pets2.png"
+      ]
+    },
+    {
+      "id": "80",
+      "title": "Ferro Philco Pfv3500az Estação À Vapor Cerâmica 1,5l Cor Azul-escuro 220V",
+      "description": "O Ferro a Vapor Philco PFV3500AZ Cerâmica 1,5L possui revestimento em cerâmica, facilitando a eliminação de amassados e proporcionando conforto ao passar roupas. Conta com 60 saídas de vapor para um fluxo uniforme e ampla área de alcance, permitindo desamassar roupas rapidamente. O revestimento em cerâmica com super deslizamento possibilita passar roupas sem esforço, evitando que grudem ou queimem. O Ferro a Vapor Philco PFV3500AZ tem sistema de segurança que desliga automaticamente após 8 minutos de inatividade, cordão elétrico giratório com 1,8m de comprimento e função vapor em 2 níveis: ECO e vapor máximo, para maior versatilidade ao passar roupas de forma econômica ou com mais potência.",
+      "price": "200,00",
+      "category": "casa",
+      "images": [
+        "../../assets/products/ferro-philco/ferro-philco1.png",
+        "../../assets/products/ferro-philco/ferro-philco2.png",
+        "../../assets/products/ferro-philco/ferro-philco3.png",
+        "../../assets/products/ferro-philco/ferro-philco4.png"
+      ]
+    },
+    {
+      "id": "81",
+      "title": "Ventilar Mondial",
+      "description": "VENTILADOR DE 70CM + 6 PÁS: A linha de ventiladores Super Power alia o design à potência para promover maior intensidade do vento. É garantia de um ambiente fresco e agradável!",
+      "price": "30,00",
+      "category": "casa",
+      "images": [
+        "../../assets/products/ventilador/ventilador1.png",
+        "../../assets/products/ventilador/ventilador2.png",
+        "../../assets/products/ventilador/ventilador3.png"
+      ]
+    },
+    {
+      "id": "82",
+      "title": "Banco Sapateira Porta de Casa",
+      "description": "Banco sapateira para porta de casa, feito de ferro branco com madeira natural.",
+      "price": "80,00",
+      "category": "casa",
+      "images": [
+        "../../assets/products/banco-sapateira/banco-sapateira1.png",
+        "../../assets/products/banco-sapateira/banco-sapateira2.png"
+      ]
+    },
+    {
+      "id": "83",
+      "title": "Cesto De Palha Taboa Branco Decoração Para Casa",
+      "description": "Uma ótima opção para compor a decoração do seu espaço com tons sóbrios e sofisticados, da Coleção blendTWO assinado pela arquiteta Ju Granado. CASA GRANADO DECORAÇÃO. DICA DE USO: Este cesto fica maravilhoso para ser disposto ao lado de uma rack com uma planta, mesa de escritório, escrivaninha, poltrona, escritório, hall de entrada, usar no lavabo, banheiro, e é super moderno e arrojado. Ele vai compor seu espaço com muito estilo e bom gosto. 33 cm x 33 cm x 33 cm",
+      "price": "100,00",
+      "category": "casa",
+      "images": [
+        "../../assets/products/cesto-sala/cesto-sala1.png",
+        "../../assets/products/cesto-sala/cesto-sala2.png",
+        "../../assets/products/cesto-sala/cesto-sala3.png"
+      ]
+    },
+    {
+      "id": "84",
+      "title": "Conjunto Almofadas Decorativas",
+      "description": "Capas de Almofada com ziper 45x45cm, refil de enchimento em fibra siliconada antialergica.",
+      "price": "160,00",
+      "category": "casa",
+      "images": [
+        "../../assets/products/almofadas/almofadas1.png",
+        "../../assets/products/almofadas/almofadas2.png",
+        "../../assets/products/almofadas/almofadas3.png"
+      ]
+    },
+    {
+      "id": "85",
+      "title": "Fruteira",
+      "description": "Fruteira de ferro - 30cm diametro x 13cm altura.",
+      "price": "10,00",
+      "category": "casa",
+      "images": [
+        "../../assets/products/fruteira/fruteira1.png"
+      ]
+    },
+    {
+      "id": "86",
+      "title": "Organizadores (2 und)",
+      "description": "2 organizadeores retangulares, grade - material ferro, cor branca.",
+      "price": "15,00",
+      "category": "casa",
+      "images": [
+        "../../assets/products/organizador-retangular/organizador-retangular.png"
+      ]
+    },
+    {
+      "id": "87",
+      "title": "Cesto Lavanderia",
+      "description": "Cesto lavanderia - 41cm alt x 33cm comp x 40cm larg",
+      "price": "30,00",
+      "category": "casa",
+      "images": [
+        "../../assets/products/cesto-lavanderia/cesto-lavanderia1.png",
+        "../../assets/products/cesto-lavanderia/cesto-lavanderia2.png",
+        "../../assets/products/cesto-lavanderia/cesto-lavanderia3.png",
+        "../../assets/products/cesto-lavanderia/cesto-lavanderia4.png"
+      ]
+    },
+    {
+      "id": "88",
+      "title": "Organizadores Multi Uso",
+      "description": "2 organizadores multi uso, podendo ser usado na ozinha, dentro de armarios, material: ferro.",
+      "price": "20,00",
+      "category": "casa",
+      "images": [
+        "../../assets/products/organizadores-grade/organizadores-grade1.png",
+        "../../assets/products/organizadores-grade/organizadores-grade2.png",
+        "../../assets/products/organizadores-grade/organizadores-grade3.png"
+      ]
+    },
+    {
+      "id": "89",
+      "title": "Cestos Organizadores",
+      "description": "Cestos organizadores variados, valor unidade.",
+      "price": "5,00",
+      "category": "casa",
+      "images": [
+        "../../assets/products/organizadores-plastico/organizadores-plastico1.png",
+        "../../assets/products/organizadores-plastico/organizadores-plastico2.png",
+        "../../assets/products/organizadores-plastico/organizadores-plastico3.png",
+        "../../assets/products/organizadores-plastico/organizadores-plastico4.png",
+        "../../assets/products/organizadores-plastico/organizadores-plastico5.png"
+      ]
+    },
+    {
+      "id": "90",
+      "title": "Vaso Ceramica Preto",
+      "description": "Vaso decorativo de ceramica. 26cm altura",
+      "price": "30,00",
+      "category": "casa",
+      "images": [
+        "../../assets/products/vaso-ceramica/vaso-ceramica1.png",
+        "../../assets/products/vaso-ceramica/vaso-ceramica2.png"
+      ]
+    },
+    {
+      "id": "77",
+      "title": "Sofa Retrátil 3 Lugares",
+      "description": "Sofá retratril de 3 lugares, laterais inteira revestida de madeira (não vasado) - 240cm x 107cm",
+      "price": "1.500,00",
+      "category": "moveis",
+      "images": [
+        "../../assets/products/sofa/sofa1.png",
+        "../../assets/products/sofa/sofa2.png",
+        "../../assets/products/sofa/sofa3.png",
+        "../../assets/products/sofa/sofa4.png",
+        "../../assets/products/sofa/sofa5.png",
+        "../../assets/products/sofa/sofa6.png",
+        "../../assets/products/sofa/sofa7.png"
+      ]
+    },
+    {
+      "id": "91",
+      "title": "Mantas",
+      "description": "Mantas/Cobertores. Primeira foto R$40,00, Segunda foto R$50,00",
+      "price": "90,00",
+      "category": "outros",
+      "images": [
+        "../../assets/products/mantas/manta1.png",
+        "../../assets/products/mantas/manta2.png"
+      ]
+    },
+    {
+      "id": "92",
+      "title": "Cestos Palha",
+      "description": "3 cestos decorativos de palha",
       "price": "50,00",
+      "category": "outros",
+      "images": [
+        "../../assets/products/cesto-palha/cesto-palha1.png"
+      ]
+    },
+    {
+      "id": "93",
+      "title": "Quadros Decorativos",
+      "description": "Conjunto de quadros decorativos.",
+      "price": "30,00",
+      "category": "casa",
+      "images": [
+        "../../assets/products/quadros-decorativos/quadros-decorativos1.png",
+        "../../assets/products/quadros-decorativos/quadros-decorativos2.png",
+        "../../assets/products/quadros-decorativos/quadros-decorativos3.png"
+      ]
+    },
+    {
+      "id": "94",
+      "title": "Itens Decorativos",
+      "description": "Conjunto itens decorativos.",
+      "price": "30,00",
+      "category": "casa",
+      "images": [
+        "../../assets/products/itens-decorativos/itens-decorativos1.png",
+        "../../assets/products/itens-decorativos/itens-decorativos2.png",
+        "../../assets/products/itens-decorativos/itens-decorativos3.png"
+      ]
+    },
+    {
+      "id": "95",
+      "title": "Conjunto Banheiro",
+      "description": "Conjunto de recipientes banheiro, vidro.",
+      "price": "25,00",
+      "category": "casa",
+      "images": [
+        "../../assets/products/conjunto-banheiro/conjunto-banheiro1.png",
+        "../../assets/products/conjunto-banheiro/conjunto-banheiro2.png"
+      ]
+    },
+    {
+      "id": "96",
+      "title": "Cachepo Ceramica",
+      "description": "Conjunto 2 cachepo de ceramica branco.",
+      "price": "20,00",
+      "category": "casa",
+      "images": [
+        "../../assets/products/cachepo/cachepo1.png",
+        "../../assets/products/cachepo/cachepo3.png",
+        "../../assets/products/cachepo/cachepo2.png"
+      ]
+    },
+    {
+      "id": "97",
+      "title": "Bandeja Decorativa",
+      "description": "Bandeja decorativa preta com detalhes dourados - 47cm x 27cm",
+      "price": "60,00",
+      "category": "casa",
+      "images": [
+        "../../assets/products/bandeja-decorativa/bandeja-decorativa1.png",
+        "../../assets/products/bandeja-decorativa/bandeja-decorativa2.png",
+        "../../assets/products/bandeja-decorativa/bandeja-decorativa3.png"
+      ]
+    },
+    {
+      "id": "98",
+      "title": "Vaso Vidro",
+      "description": "Vaso de vidro - 24cm",
+      "price": "30,00",
+      "category": "casa",
+      "images": [
+        "../../assets/products/vaso-vidro/vaso-vrido1.png"
+      ]
+    },
+    {
+      "id": "99",
+      "title": "Organizadores Cozinha",
+      "description": "Organizadores para cozinha, tamanhos variados. Ideal para talheres. Valor unidade.",
+      "price": "5,00",
       "category": "cozinha",
       "images": [
-        "../../assets/products/panela-pressao/panela1.png"
+        "../../assets/products/organizadores-cozinha/organizadores-cozinha1.png",
+        "../../assets/products/organizadores-cozinha/organizadores-cozinha2.png",
+        "../../assets/products/organizadores-cozinha/organizadores-cozinha3.png",
+        "../../assets/products/organizadores-cozinha/organizadores-cozinha4.png",
+        "../../assets/products/organizadores-cozinha/organizadores-cozinha5.png",
+        "../../assets/products/organizadores-cozinha/organizadores-cozinha6.png"
+      ]
+    },
+    {
+      "id": "100",
+      "title": "Faqueiro jogo laguna aço inox 100 peças tramontina - TRAMONTINA FARROUPILHA",
+      "description": "Faqueiro Tramontina Laguna em Aço Inox com Facas de Churrasco Acabamento em Brilho com Detalhes no Cabo 100 Peças",
+      "price": "100,00",
+      "category": "cozinha",
+      "images": [
+        "../../assets/products/faqueiro/faqueiro1.png",
+        "../../assets/products/faqueiro/faqueiro2.png",
+        "../../assets/products/faqueiro/faqueiro3.png",
+        "../../assets/products/faqueiro/faqueiro4.png"
+      ]
+    },
+    {
+      "id": "101",
+      "title": "Porta Retratos",
+      "description": "Conjuto de porta retratos. valor unidade.",
+      "price": "5,00",
+      "category": "outros",
+      "images": [
+        "../../assets/products/porta-retrato/porta-retrato1.png"
+      ]
+    },
+    {
+      "id": "102",
+      "title": "Kit Philco PKT3150 Deluxe Secador e Escova 110v",
+      "description": "Pensando em você, unimos produtos essenciais para a beleza dos seus cabelos, o Kit Philco oferece escova giratória e secador, ambos liberam íons tourmaline, que reduzem o frizz deixando os cabelos macios e sedosos, sem prejudicar a umidade natural dos fio.",
+      "price": "150,00",
+      "category": "outros",
+      "images": [
+        "../../assets/products/secador/secador1.png",
+        "../../assets/products/secador/secador2.png",
+        "../../assets/products/secador/secador3.png",
+        "../../assets/products/secador/secador4.png",
+        "../../assets/products/secador/secador5.png"
+      ]
+    },
+    {
+      "id": "103",
+      "title": "Modelador Cachos Rusk 110v",
+      "description": "Transforme cabelos lisos em belíssimos cachos com movimento natural, como feitos no salão e com efeito muito mais duradouro. E é tão rápido e fácil que parece mágica!.",
+      "price": "60,00",
+      "category": "outros",
+      "images": [
+        "../../assets/products/cacho/cacho1.png",
+        "../../assets/products/cacho/cacho2.png"
+      ]
+    },
+    {
+      "id": "1",
+      "title": "Organizadores Acrilico",
+      "description": "Conjunto de organizadores, material de acrilico. Valor unidade.",
+      "price": "10,00",
+      "category": "outros",
+      "images": [
+        "../../assets/products/organizadores-acrilico/organizadores-acrilico1.png",
+        "../../assets/products/organizadores-acrilico/organizadores-acrilico2.png",
+        "../../assets/products/organizadores-acrilico/organizadores-acrilico3.png",
+        "../../assets/products/organizadores-acrilico/organizadores-acrilico4.png",
+        "../../assets/products/organizadores-acrilico/organizadores-acrilico5.png"
+      ]
+    },
+    {
+      "id": "104",
+      "title": "Difusor Essencia",
+      "description": "Recipiente difusor de essencia para ambientes.",
+      "price": "10,00",
+      "category": "outros",
+      "images": [
+        "../../assets/products/recipiente-essencia/recipiente-essencia1.png"
+      ]
+    },
+    {
+      "id": "105",
+      "title": "Luminárias / Abajur",
+      "description": "2 luminárias/abajur's para quarto/sala.",
+      "price": "20,00",
+      "category": "outros",
+      "images": [
+        "../../assets/products/abajur/abajur1.png",
+        "../../assets/products/abajur/abajur2.png"
+      ]
+    },
+    {
+      "id": "106",
+      "title": "Espelho de Corpo",
+      "description": "Espelho de corpo para quarto/sala - 160cm x 60cm",
+      "price": "60,00",
+      "category": "outros",
+      "images": [
+        "../../assets/products/espelho/espelho1.png",
+        "../../assets/products/espelho/espelho2.png"
+      ]
+    },
+    {
+      "id": "107",
+      "title": "Aspirador de Pó Vertical WAP POWER SPEED 2000W 3L Potente 2 em 1 com Mangueira Extensora Flexível 127V",
+      "description": "Desenvolvido com muito Amor, o Aspirador de Pó WAP POWER SPEED segundo nossos clientes, Limpa na força do Ódio! Amor pela Limpeza, Ódio pela Sujeira, É WAP! Super Potente! Potência Elétrica de 2000W. Vácuo Sucção de 133 mbar. Aspirador Vertical 2 em 1 com Mangueira Extensível e Flexível. Filtro HEPA e Recipiente com Capacidade de 3 Litros. Possui Escova Elétrica Rotativa e Turbo Brush, ideal para quem tem animais de estimação, deixando o ambiente livre de pelos em instantes. Tecnologia Ciclone que compacta toda a sujeira e evita a obstrução da passagem do ar, otimizando ainda mais sua aspiração.",
+      "price": "350,00",
+      "category": "casa",
+      "images": [
+        "../../assets/products/aspirador/aspirador1.png",
+        "../../assets/products/aspirador/aspirador2.png",
+        "../../assets/products/aspirador/aspirador3.png",
+        "../../assets/products/aspirador/aspirador4.png",
+        "../../assets/products/aspirador/aspirador5.png",
+        "../../assets/products/aspirador/aspirador6.png",
+        "../../assets/products/aspirador/aspirador7.png"
+      ]
+    },
+    {
+      "id": "108",
+      "title": "Monitor Samsung Uhd 28'' Led 4k Hdmi Freesync Hdr 60hz 4ms Cor Preto 110v/220v",
+      "description": "Monitor UHD 28'' LED 4K HDMI FreeSync Samsung. Experimente uma resolução 4K que revela cada detalhe. Com este monitor UHD, desfrute de imagens compostas por 8 milhões de pixels para detalhes mais complexos. O painel IPS mantém a nitidez e a clareza das cores em toda a tela, garantindo fidelidade de tons e sombras de qualquer ângulo, sem desbotamento de cores. O suporte HDR oferece uma gama dinâmica de luminosidade, enriquecendo áreas escuras e intensificando as claras. A tecnologia AMD FreeSync reduz imprecisões para uma experiência visual fluida. O design da tela conta com contorno sofisticado e uma abordagem minimalista com 3 lados sem borda.",
+      "price": "600,00",
+      "category": "eletronico",
+      "images": [
+        "../../assets/products/monitor-samsung/monitor-samsung1.png",
+        "../../assets/products/monitor-samsung/monitor-samsung2.png",
+        "../../assets/products/monitor-samsung/monitor-samsung3.png",
+        "../../assets/products/monitor-samsung/monitor-samsung4.png",
+        "../../assets/products/monitor-samsung/monitor-samsung5.png",
+        "../../assets/products/monitor-samsung/monitor-samsung6.png",
+        "../../assets/products/monitor-samsung/monitor-samsung7.png"
+      ]
+    },
+    {
+      "id": "109",
+      "title": "Tramontina Parafusadeira a Bateria 3,6V com 46 Peças",
+      "description": "Empunhadura ergonômica e emborrachada. Capacidade da bateria: 700 mAh. Mandril para bits1/4'' magnetizado. Led frontal para iluminação da área trabalhada. Motor com velocidade reversível",
+      "price": "50,00",
+      "category": "outros",
+      "images": [
+        "../../assets/products/parafusadeira/parafusadeira1.png",
+        "../../assets/products/parafusadeira/parafusadeira2.png"
+      ]
+    },
+    {
+      "id": "110",
+      "title": "Ferro de Passar Mondial a Vapor Ceramic Express F-40 com Spray e Base Cerâmica",
+      "description": "Passar suas roupas agora ficou mais prático com o Ferro a Vapor Ceramic Expres F-40 da Mondial. Este ferro conta com base revestida de cêramica, controle de saída de vapor, salva botões, alça emborrachada, spray e sistema alto limpante. Além disso, possui vapor vertical para facilitar na hora de passar aquela roupa mais difícil.",
+      "price": "30,00",
+      "category": "casa",
+      "images": [
+        "../../assets/products/ferro-passar/ferro-passar1.png",
+        "../../assets/products/ferro-passar/ferro-passar2.png"
+      ]
+    },
+    {
+      "id": "111",
+      "title": "Estante 6 Prateleiras De Aço Livros Ferram Quarto Cozinha Fg",
+      "description": "#stante com prateleiras em aço é multiuso, podendo ser usada em escolas para acomodar livros e documentos, escritórios em geral, arquivos, lojas de peças, almoxarifados, lojinhas de roupas, quarto das crianças para organizar os materiais escolares e brinquedos, enfim, são muitas as utilidades temos certeza que ficará satisfeito (a) com essa aquisição.",
+      "price": "80,00",
+      "category": "outros",
+      "images": [
+        "../../assets/products/estante-ferro/estante-ferro1.png",
+        "../../assets/products/estante-ferro/estante-ferro2.png",
+        "../../assets/products/estante-ferro/estante-ferro3.png"
+      ]
+    },
+    {
+      "id": "112",
+      "title": "Caixas Organizadoras",
+      "description": "Caixas organizadoras tamanhos P / M / G. P - R$12,00, M - R$12,00, G - R$12,00. **** Valor unidade. ****",
+      "price": "12,00",
+      "category": "outros",
+      "images": [
+        "../../assets/products/caixas-organizadoras/caixas-organizadoras1.png",
+        "../../assets/products/caixas-organizadoras/caixas-organizadoras2.png",
+        "../../assets/products/caixas-organizadoras/caixas-organizadoras3.png",
+        "../../assets/products/caixas-organizadoras/caixas-organizadoras4.png",
+        "../../assets/products/caixas-organizadoras/caixas-organizadoras5.png",
+        "../../assets/products/caixas-organizadoras/caixas-organizadoras6.png"
+      ]
+    },
+    {
+      "id": "113",
+      "title": "Porta Utensílios",
+      "description": "Porta utensílios de ferro, cor preta",
+      "price": "10,00",
+      "category": "casa",
+      "images": [
+        "../../assets/products/porta-utensilio/porta-utensilio1.png",
+        "../../assets/products/porta-utensilio/porta-utensilio2.png"
+      ]
+    },
+    {
+      "id": "114",
+      "title": "Kit Recipientes Banho",
+      "description": "Recipientes para shampoo, condicionador e sabonete. Material: plástico.",
+      "price": "15,00",
+      "category": "casa",
+      "images": [
+        "../../assets/products/recipientes-banho/recipientes-banho1.png"
+      ]
+    },
+    {
+      "id": "115",
+      "title": "Mesa Escritório / Home Office Anah Freijó e Preta",
+      "description": "Estar bem acomodado e num ambiente organizado favorece muito a produtividade diária, sabia? Por isso, a Mesa de Escritório Anah é uma grande aliada para as suas horas de trabalho ou de estudos. Medidas: 135cm comp x 70cm larg x 74cm alt.",
+      "price": "150,00",
+      "category": "escritorio",
+      "images": [
+        "../../assets/products/mesa-officem/mesa-officem1.png",
+        "../../assets/products/mesa-officem/mesa-officem2.png",
+        "../../assets/products/mesa-officem/mesa-officem3.png"
+      ]
+    },
+    {
+      "id": "116",
+      "title": "Base Lightning para iPhone",
+      "description": "2 unidades, 1 cinza espacial / 1 dourado. Com ela você carrega e sincroniza qualquer iPhone que tenha conector Lightning. O seu iPhone permanece na vertical em uma base perfeita para mesa ou bancada enquanto ele sincroniza ou recarrega. Mesmo dentro de uma capa da Apple, seu iPhone se encaixa com facilidade na base. Você pode desbloquear ou usar o Touch/Face ID sem tirar o iPhone da base. Valor unidade",
+      "price": "70,00",
+      "category": "eletronico",
+      "images": [
+        "../../assets/products/base-carregadora/base-carregadora1.png",
+        "../../assets/products/base-carregadora/base-carregadora2.png",
+        "../../assets/products/base-carregadora/base-carregadora3.png",
+        "../../assets/products/base-carregadora/base-carregadora4.png",
+        "../../assets/products/base-carregadora/base-carregadora5.png",
+        "../../assets/products/base-carregadora/base-carregadora6.png"
+      ]
+    },
+    {
+      "id": "117",
+      "title": "Rack Sala Branco",
+      "description": "Rack para sala, cor branca, MDF - 180cm comp x 40cm larg -  50cm alt",
+      "price": "70,00",
+      "category": "moveis",
+      "images": [
+        "../../assets/products/rack/rack1.png",
+        "../../assets/products/rack/rack2.png"
+      ]
+    },
+    {
+      "id": "118",
+      "title": "Cama Box - Casal",
+      "description": "Cama box tamanho casal com cabeceira estofada. Colchão Epeda, molas ensacadas.",
+      "price": "500,00",
+      "category": "moveis",
+      "images": [
+        "../../assets/products/cama/cama1.png",
+        "../../assets/products/cama/cama2.png",
+        "../../assets/products/cama/cama3.png",
+        "../../assets/products/cama/cama4.png"
+      ]
+    },
+    {
+      "id": "119",
+      "title": "Tapete Pequeno",
+      "description": "Tapete para quarto/sala/home-office - 150cm x 100cm",
+      "price": "30,00",
+      "category": "casa",
+      "images": [
+        "../../assets/products/tapete-pequeno/tapete-pequeno1.png",
+        "../../assets/products/tapete-pequeno/tapete-pequeno2.png"
+      ]
+    },
+    {
+      "id": "120",
+      "title": "Tapete Médio",
+      "description": "Tapete para quarto/sala/home-office - 200cm x 145cm",
+      "price": "150,00",
+      "category": "casa",
+      "images": [
+        "../../assets/products/tapete-medio/tapete-medio1.png",
+        "../../assets/products/tapete-medio/tapete-medio2.png"
+      ]
+    },
+    {
+      "id": "121",
+      "title": "Tapete grande",
+      "description": "Tapete para quarto/sala/home-office - 250cm x 200cm",
+      "price": "400,00",
+      "category": "casa",
+      "images": [
+        "../../assets/products/tapete-grande/tapete-grande1.png",
+        "../../assets/products/tapete-grande/tapete-grande2.png"
+      ]
+    },
+    {
+      "id": "122",
+      "title": "Caixas Organizadoras Pequenas",
+      "description": "2 caixas organizadoras, pequenas, ideais para gavetas. A bramca possui divisórias. *** Valor Unidade ***",
+      "price": "5,00",
+      "category": "outros",
+      "images": [
+        "../../assets/products/caixa-org-pequenas/caixa-org-pequenas1.png",
+        "../../assets/products/caixa-org-pequenas/caixa-org-pequenas2.png",
+        "../../assets/products/caixa-org-pequenas/caixa-org-pequenas3.png"
+      ]
+    },
+    {
+      "id": "123",
+      "title": "Caixa Farmácia",
+      "description": "1 caixa farmácia para armazenamento de remédios.",
+      "price": "5,00",
+      "category": "outros",
+      "images": [
+        "../../assets/products/farmacia/farmacia1.png"
+      ]
+    },
+    {
+      "id": "124",
+      "title": "Bones MCD - Originais",
+      "description": "2 bonés MCD originais, cinza/azul com clipe de ajuste, preto de elastico para ajuste. **** Valor unidade. ****",
+      "price": "60,00",
+      "category": "outros",
+      "images": [
+        "../../assets/products/bone/bone1.png",
+        "../../assets/products/bone/bone2.png"
       ]
     }
   ]
