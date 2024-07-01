@@ -716,19 +716,6 @@
       ]
     },
     {
-      "id": "81",
-      "title": "Ventilar Mondial",
-      "description": "VENTILADOR DE 70CM + 6 PÁS: A linha de ventiladores Super Power alia o design à potência para promover maior intensidade do vento. É garantia de um ambiente fresco e agradável!",
-      "price": "30,00",
-      "category": "casa",
-      "images": [
-        "../../assets/products/ventilador/ventilador1.png",
-        "../../assets/products/ventilador/ventilador2.png",
-        "../../assets/products/ventilador/ventilador3.png"
-      ],
-      "reservado": "Talita"
-    },
-    {
       "id": "82",
       "title": "Banco Sapateira Porta de Casa",
       "description": "Banco sapateira para porta de casa, feito de ferro branco com madeira natural.",
@@ -849,16 +836,6 @@
       ]
     },
     {
-      "id": "98",
-      "title": "Vaso Vidro",
-      "description": "Vaso de vidro - 24cm",
-      "price": "30,00",
-      "category": "casa",
-      "images": [
-        "../../assets/products/vaso-vidro/vaso-vrido1.png"
-      ]
-    },
-    {
       "id": "99",
       "title": "Organizadores Cozinha",
       "description": "Organizadores para cozinha, tamanhos variados. Ideal para talheres. Valor unidade.",
@@ -951,17 +928,6 @@
         "../../assets/products/monitor-samsung/monitor-samsung5.png",
         "../../assets/products/monitor-samsung/monitor-samsung6.png",
         "../../assets/products/monitor-samsung/monitor-samsung7.png"
-      ]
-    },
-    {
-      "id": "110",
-      "title": "Ferro de Passar Mondial a Vapor Ceramic Express F-40 com Spray e Base Cerâmica",
-      "description": "Passar suas roupas agora ficou mais prático com o Ferro a Vapor Ceramic Expres F-40 da Mondial. Este ferro conta com base revestida de cêramica, controle de saída de vapor, salva botões, alça emborrachada, spray e sistema alto limpante. Além disso, possui vapor vertical para facilitar na hora de passar aquela roupa mais difícil.",
-      "price": "30,00",
-      "category": "casa",
-      "images": [
-        "../../assets/products/ferro-passar/ferro-passar1.png",
-        "../../assets/products/ferro-passar/ferro-passar2.png"
       ]
     },
     {
