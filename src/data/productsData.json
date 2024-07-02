@@ -173,18 +173,6 @@
       ]
     },
     {
-      "id": "4",
-      "title": "Marinex redonda com tampa",
-      "description": "Conjunto de 3 Potes de vidro redondos da marca Marinex, tamanho pequeno!",
-      "price": "30,00",
-      "category": "cozinha",
-      "images": [
-        "../../assets/products/potes-tampa-azul/potes-tampa-azul1.png",
-        "../../assets/products/potes-tampa-azul/potes-tampa-azul2.png",
-        "../../assets/products/potes-tampa-azul/potes-tampa-azul3.png"
-      ]
-    },
-    {
       "id": "6",
       "title": "Nadir quadrada com tampa 500ml",
       "description": "1 Pote de vidro quadrado Nadir, com tampa, tamanho pequeno!",
@@ -232,14 +220,12 @@
     {
       "id": "11",
       "title": "Supla Descanso Prato Mesa De Jantar Posta Decoração Versátil Pratico Redondo",
-      "description": "2 Jogos de supla para jantar, com 6 peças cada cor. **** Para Venda separada dos jogos: Verde Escuro R$30,00 | Verde Claro (com madeira) R$40,00 ****",
-      "price": "70,00",
+      "description": "Jogo de supla para jantar, com 6 peças.",
+      "price": "30,00",
       "category": "cozinha",
       "images": [
         "../../assets/products/conjunto-suplas/conjunto-suplas1.png",
-        "../../assets/products/conjunto-suplas/conjunto-suplas2.png",
-        "../../assets/products/conjunto-suplas/conjunto-suplas3.png",
-        "../../assets/products/conjunto-suplas/conjunto-suplas4.png"
+        "../../assets/products/conjunto-suplas/conjunto-suplas2.png"
       ]
     },
     {
@@ -366,17 +352,6 @@
       "images": [
         "../../assets/products/balanca/balanca1.png",
         "../../assets/products/balanca/balanca2.png"
-      ]
-    },
-    {
-      "id": "21",
-      "title": "Jogo 5 bowls inox",
-      "description": "5 recipientes inox, tamanhos variados.",
-      "price": "20,00",
-      "category": "cozinha",
-      "images": [
-        "../../assets/products/recipientes-inox/recipientes-inox1.png",
-        "../../assets/products/recipientes-inox/recipientes-inox2.png"
       ]
     },
     {
@@ -533,16 +508,6 @@
       "category": "escritorio",
       "images": [
         "../../assets/products/suporte-monitor/suporte-monitor1.png"
-      ]
-    },
-    {
-      "id": "43",
-      "title": "Travessa/Saladeira Grande",
-      "description": "Travessa de ceramica, tamanho grande, ideal para jantares, frutas.",
-      "price": "100,00",
-      "category": "cozinha",
-      "images": [
-        "../../assets/products/travessa/travessa1.png"
       ]
     },
     {
@@ -824,18 +789,6 @@
       ]
     },
     {
-      "id": "97",
-      "title": "Bandeja Decorativa",
-      "description": "Bandeja decorativa preta com detalhes dourados - 47cm x 27cm",
-      "price": "60,00",
-      "category": "casa",
-      "images": [
-        "../../assets/products/bandeja-decorativa/bandeja-decorativa1.png",
-        "../../assets/products/bandeja-decorativa/bandeja-decorativa2.png",
-        "../../assets/products/bandeja-decorativa/bandeja-decorativa3.png"
-      ]
-    },
-    {
       "id": "99",
       "title": "Organizadores Cozinha",
       "description": "Organizadores para cozinha, tamanhos variados. Ideal para talheres. Valor unidade.",
@@ -848,19 +801,6 @@
         "../../assets/products/organizadores-cozinha/organizadores-cozinha4.png",
         "../../assets/products/organizadores-cozinha/organizadores-cozinha5.png",
         "../../assets/products/organizadores-cozinha/organizadores-cozinha6.png"
-      ]
-    },
-    {
-      "id": "100",
-      "title": "Faqueiro jogo laguna aço inox 100 peças tramontina - TRAMONTINA FARROUPILHA",
-      "description": "Faqueiro Tramontina Laguna em Aço Inox com Facas de Churrasco Acabamento em Brilho com Detalhes no Cabo 100 Peças",
-      "price": "100,00",
-      "category": "cozinha",
-      "images": [
-        "../../assets/products/faqueiro/faqueiro1.png",
-        "../../assets/products/faqueiro/faqueiro2.png",
-        "../../assets/products/faqueiro/faqueiro3.png",
-        "../../assets/products/faqueiro/faqueiro4.png"
       ]
     },
     {
@@ -939,9 +879,7 @@
       "images": [
         "../../assets/products/caixas-organizadoras/caixas-organizadoras1.png",
         "../../assets/products/caixas-organizadoras/caixas-organizadoras2.png",
-        "../../assets/products/caixas-organizadoras/caixas-organizadoras3.png",
-        "../../assets/products/caixas-organizadoras/caixas-organizadoras4.png",
-        "../../assets/products/caixas-organizadoras/caixas-organizadoras5.png"
+        "../../assets/products/caixas-organizadoras/caixas-organizadoras4.png"
       ]
     },
     {
