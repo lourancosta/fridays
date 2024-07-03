@@ -613,16 +613,6 @@
       ]
     },
     {
-      "id": "104",
-      "title": "Difusor Essencia",
-      "description": "Recipiente difusor de essencia para ambientes.",
-      "price": "10,00",
-      "category": "outros",
-      "images": [
-        "../../assets/products/recipiente-essencia/recipiente-essencia1.png"
-      ]
-    },
-    {
       "id": "106",
       "title": "Espelho de Corpo",
       "description": "Espelho de corpo para quarto/sala - 160cm x 60cm",
