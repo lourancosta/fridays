@@ -80,23 +80,6 @@
       ]
     },
     {
-      "id": "50",
-      "title": "Carrinho Multi Uso",
-      "description": "O carrinho multiuso com pintura epóxi resistente em aço, possui 3 prateleiras com bordas e fundo de superfície vazada que suportam até 20kg cada prateleira. Seu fundo possui micro furos que eliminam eventuais resíduos líquidos. O carrinho possui alça e rodízios, se tornando prático para locomoção e decorativo em seu ambiente. Ideal para diversos ambientes e para seu negócio como: sala, banheiro, quarto lavanderia, bar, quarto de criança, salão de beleza, oficina e escritório. Basta montar e começar a organizar.",
-      "price": "120,00",
-      "category": "casa",
-      "images": [
-        "../../assets/products/carrinho-ferro/carrinho-ferro1.png",
-        "../../assets/products/carrinho-ferro/carrinho-ferro2.png",
-        "../../assets/products/carrinho-ferro/carrinho-ferro3.png",
-        "../../assets/products/carrinho-ferro/carrinho-ferro4.png",
-        "../../assets/products/carrinho-ferro/carrinho-ferro5.png",
-        "../../assets/products/carrinho-ferro/carrinho-ferro6.png",
-        "../../assets/products/carrinho-ferro/carrinho-ferro7.png",
-        "../../assets/products/carrinho-ferro/carrinho-ferro8.png"
-      ]
-    },
-    {
       "id": "52",
       "title": "Macbook Air 2017 13.3 polegadas",
       "description": "MacBook Air 2017 SSD 128GB, Intel Core i5, 8GB de ram. Tudo funcionando 100%, bateria durando em média 4 a 6 horas. Macbook muito leve e com design muito elegante e fino. Está bem conservado, sem amassados e sem marcas de uso. Acompanham o macbook: carregador original, caixa, cabo Thunderbolt X HDMI 2 metros, adaptadores Thunderbolt X HDMI e Thunderbolt X VGA.",
@@ -173,51 +156,6 @@
       ]
     },
     {
-      "id": "6",
-      "title": "Nadir quadrada com tampa 500ml",
-      "description": "1 Pote de vidro quadrado Nadir, com tampa, tamanho pequeno!",
-      "price": "10,00",
-      "category": "cozinha",
-      "images": [
-        "../../assets/products/pote-quadrado-vermelho/pote-quadrado-vermelho1.png",
-        "../../assets/products/pote-quadrado-vermelho/pote-quadrado-vermelho2.png"
-      ]
-    },
-    {
-      "id": "60",
-      "title": "Apple Magic Keyboard",
-      "description": "Magic Keyboard para escrever com toda a comodidade e precisão. Sem fios e recarregável, a bateria integrada de longa duração mantém o seu teclado a funcionar durante cerca de um mês, ou até mais. Associa-se automaticamente ao Mac, para começar logo a trabalhar. Inclui um cabo de tecido USB para Lightning.",
-      "price": "300,00",
-      "category": "escritorio",
-      "images": [
-        "../../assets/products/apple-teclado/apple-teclado1.png",
-        "../../assets/products/apple-teclado/apple-teclado2.png",
-        "../../assets/products/apple-teclado/apple-teclado3.png"
-      ]
-    },
-    {
-      "id": "7",
-      "title": "Marinex quadrada com tampa 300ml",
-      "description": "Conjunto de 2 Potes de Vidro da marca Marinex Quadrado, tamanho pequeno!",
-      "price": "20,00",
-      "category": "cozinha",
-      "images": [
-        "../../assets/products/pote-quadrado-azul/pote-quadrado-azul1.png",
-        "../../assets/products/pote-quadrado-azul/pote-quadrado-azul2.png"
-      ]
-    },
-    {
-      "id": "8",
-      "title": "Conjunto Potes Hermetico Quadrado Vidro, P e M",
-      "description": "Conjunto de 2 Potes de Vidro Hermeticos Quadrado",
-      "price": "10,00",
-      "category": "cozinha",
-      "images": [
-        "../../assets/products/pote-hermetico/pote-hermetico1.png",
-        "../../assets/products/pote-hermetico/pote-hermetico2.png"
-      ]
-    },
-    {
       "id": "11",
       "title": "Supla Descanso Prato Mesa De Jantar Posta Decoração Versátil Pratico Redondo",
       "description": "Jogo de supla para jantar, com 6 peças.",
@@ -273,52 +211,6 @@
       ]
     },
     {
-      "id": "14",
-      "title": "Jogo De Taças Para Vinho Cristal - 580ml",
-      "description": "Jogo de Taças para Vinho Cristal 580ml, com 6 peças. é um conjunto de taças de vinho de alta qualidade, fabricadas em cristal. Essas taças são projetadas com precisão para realçar a experiência de degustação de vinho, permitindo que os apreciadores de vinho desfrutem plenamente dos aromas, sabores e características da bebida.",
-      "price": "40,00",
-      "category": "cozinha",
-      "images": [
-        "../../assets/products/tacas-vinho/tacas-vinho1.png",
-        "../../assets/products/tacas-vinho/tacas-vinho2.png",
-        "../../assets/products/tacas-vinho/tacas-vinho3.png"
-      ]
-    },
-    {
-      "id": "15",
-      "title": "Kit Cinema Star Wars",
-      "description": "Kit recipientes para cinema - pipoca e bebida. Conjunto com dois balde e um campo.",
-      "price": "10,00",
-      "category": "cozinha",
-      "images": [
-        "../../assets/products/kit-cinema/kit-cinema1.png",
-        "../../assets/products/kit-cinema/kit-cinema2.png"
-      ]
-    },
-    {
-      "id": "16",
-      "title": "Grill Mondial",
-      "description": "Grill Mondial Premium",
-      "price": "50,00",
-      "category": "cozinha",
-      "images": [
-        "../../assets/products/grill/grill1.png",
-        "../../assets/products/grill/grill2.png"
-      ]
-    },
-    {
-      "id": "63",
-      "title": "Apple Magic Mouse Multi-Touch, Branco",
-      "description": "O Magic Mouse apresenta um design otimizado que se movimenta perfeitamente pela mesa. É possível navegar por documentos e páginas de maneira suave, fazendo gestos simples, isso graças a superfície Multi-Touch.  Ele já vem pronto para o uso com o Mac. A sua bateria também apresenta uma duração bem longa, tendo um mês ou mais entre recargas. O mouse vem acompanhado de um cabo USB para Lightning.",
-      "price": "380,00",
-      "category": "escritorio",
-      "images": [
-        "../../assets/products/apple-mouse-b/apple-mouse-b1.png",
-        "../../assets/products/apple-mouse-b/apple-mouse-b2.png",
-        "../../assets/products/apple-mouse-b/apple-mouse-b3.png"
-      ]
-    },
-    {
       "id": "55",
       "title": "Suporte Para Garrafa Home Style Arhus 20cm x 36cm",
       "description": "PRETO, UNICO, Capacidade 6 GARRAFAS.Suportes de garrafas são essenciais para apreciadores de qualquer bebida. Mantenha suas garrafas organizadas com estilo no bar, cozinha ou sala de estar, fazendo a peça se completar à sua decoração. O Suporte para Garrafas Arhus, tem nichos que acomodam até 6 garrafas, produzido em metal e madeira, duas matérias primas de qualidade, durabilidade e estética rústica.",
@@ -341,17 +233,6 @@
         "../../assets/products/extrator-suco/extrator-suco1.png",
         "../../assets/products/extrator-suco/extrator-suco2.png",
         "../../assets/products/extrator-suco/extrator-suco3.png"
-      ]
-    },
-    {
-      "id": "19",
-      "title": "Balança Portátil",
-      "description": "Balança Portátil de Cozinha",
-      "price": "5,00",
-      "category": "cozinha",
-      "images": [
-        "../../assets/products/balanca/balanca1.png",
-        "../../assets/products/balanca/balanca2.png"
       ]
     },
     {
@@ -471,16 +352,6 @@
       ]
     },
     {
-      "id": "40",
-      "title": "Travessa Marinex 1,8L",
-      "description": "Travessa de vidro quadrada Marinex, com tampa, 1,8L.",
-      "price": "30,00",
-      "category": "cozinha",
-      "images": [
-        "../../assets/products/travessa-quadrada/travessa-quadrada.png"
-      ]
-    },
-    {
       "id": "41",
       "title": "Petisqueira",
       "description": "Petisqueira de ceramica cor preta.",
@@ -508,16 +379,6 @@
       "category": "escritorio",
       "images": [
         "../../assets/products/suporte-monitor/suporte-monitor1.png"
-      ]
-    },
-    {
-      "id": "44",
-      "title": "Conjunto Panelas Inox Tramontina - Fundo Triplo",
-      "description": "Conjunto Panelas Inox Tramontina - Fundo Triplo.",
-      "price": "200,00",
-      "category": "cozinha",
-      "images": [
-        "../../assets/products/conjunto-panelas/conjunto-panelas1.png"
       ]
     },
     {
@@ -898,19 +759,6 @@
         "../../assets/products/base-carregadora/base-carregadora4.png",
         "../../assets/products/base-carregadora/base-carregadora5.png",
         "../../assets/products/base-carregadora/base-carregadora6.png"
-      ]
-    },
-    {
-      "id": "118",
-      "title": "Cama Box - Casal",
-      "description": "Cama box tamanho casal com cabeceira estofada. Colchão Epeda, molas ensacadas.",
-      "price": "500,00",
-      "category": "moveis",
-      "images": [
-        "../../assets/products/cama/cama1.png",
-        "../../assets/products/cama/cama2.png",
-        "../../assets/products/cama/cama3.png",
-        "../../assets/products/cama/cama4.png"
       ]
     },
     {
