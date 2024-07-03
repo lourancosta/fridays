@@ -224,18 +224,6 @@
       ]
     },
     {
-      "id": "18",
-      "title": "Extrator de Sucos Turbo Premium, Mondial, Preto/Inox, 250W, Bivolt - E-10",
-      "description": "Com o Extrator de Sucos Turbo 250W Premium Mondial E-10, você vai preparar sucos naturais com muito mais praticidade. Com 250W de potência, o extrator vem com dois cones para a extração de sucos de laranja e limão. Possui motor blindado com proteção térmica, dupla rotação e é Bivolt. Acompanha copo com peneira para facilitar os preparos.",
-      "price": "50,00",
-      "category": "cozinha",
-      "images": [
-        "../../assets/products/extrator-suco/extrator-suco1.png",
-        "../../assets/products/extrator-suco/extrator-suco2.png",
-        "../../assets/products/extrator-suco/extrator-suco3.png"
-      ]
-    },
-    {
       "id": "24",
       "title": "Conjunto Hashi's Sushi 4 Pares - Comprados na China",
       "description": "2 Jogos de 4 Pares de Hashi - Comprados na China.",
@@ -701,7 +689,7 @@
       "id": "108",
       "title": "Monitor Samsung Uhd 28'' Led 4k Hdmi Freesync Hdr 60hz 4ms Cor Preto 110v/220v",
       "description": "Monitor UHD 28'' LED 4K HDMI FreeSync Samsung. Experimente uma resolução 4K que revela cada detalhe. Com este monitor UHD, desfrute de imagens compostas por 8 milhões de pixels para detalhes mais complexos. O painel IPS mantém a nitidez e a clareza das cores em toda a tela, garantindo fidelidade de tons e sombras de qualquer ângulo, sem desbotamento de cores. O suporte HDR oferece uma gama dinâmica de luminosidade, enriquecendo áreas escuras e intensificando as claras. A tecnologia AMD FreeSync reduz imprecisões para uma experiência visual fluida. O design da tela conta com contorno sofisticado e uma abordagem minimalista com 3 lados sem borda.",
-      "price": "600,00",
+      "price": "700,00",
       "category": "eletronico",
       "images": [
         "../../assets/products/monitor-samsung/monitor-samsung1.png",
