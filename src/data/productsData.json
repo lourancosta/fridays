@@ -1,42 +1,6 @@
 {
   "products": [
     {
-      "id": "48",
-      "title": "Monitor DELL 27 polegadas FHD 1080p tela com iluminação LED (P2719H)",
-      "description": "Obtenha um excelente valor usando este monitor FHD de 27 polegadas, com ângulo de visão ampliado, conectividade VGA, DP, HDMI. Full HD (1080p) 1920 x 1080 a 60 Hz. Dimensões 62.33 cm x 18.829 cm x 45.89 cm - com suporte",
-      "price": "750,00",
-      "category": "eletronico",
-      "images": [
-        "../../assets/products/monitor-dell27/monitor-dell271.png",
-        "../../assets/products/monitor-dell27/monitor-dell272.png",
-        "../../assets/products/monitor-dell27/monitor-dell273.png",
-        "../../assets/products/monitor-dell27/monitor-dell274.png",
-        "../../assets/products/monitor-dell27/monitor-dell275.png",
-        "../../assets/products/monitor-dell27/monitor-dell276.png",
-        "../../assets/products/monitor-dell27/monitor-dell277.png",
-        "../../assets/products/monitor-dell27/monitor-dell278.png"
-      ]
-    },
-    {
-      "id": "49",
-      "title": "Violão Fender CD-100 CE",
-      "description": "Otimo timbre e sonoridade captação fishiman fender original acompanha hardcase, tripé, cabo e capotraste.",
-      "price": "1.400,00",
-      "category": "outros",
-      "images": [
-        "../../assets/products/violao/violao01.png",
-        "../../assets/products/violao/violao02.png",
-        "../../assets/products/violao/violao03.png",
-        "../../assets/products/violao/violao04.png",
-        "../../assets/products/violao/violao05.png",
-        "../../assets/products/violao/violao06.png",
-        "../../assets/products/violao/violao07.png",
-        "../../assets/products/violao/violao08.png",
-        "../../assets/products/violao/violao09.png",
-        "../../assets/products/violao/violao10.png"
-      ]
-    },
-    {
       "id": "27",
       "title": "Forno De Embutir Elétrico Electrolux OE60M 59 Litros – Preto 127V",
       "description": "59 litros de Capacidade: Forno de embutir compacto para melhor aproveitamento do espaço na cozinha. 3 funções: Para preparar Bolos, Massas, Carnes e Dourar. Função Manter Aquecido: Mantém sua receita quentinha até o momento de servir. Timer com Auto Desligamento: Após atingir o tempo escolhido no timer o forno desliga sozinho, sem precisar se preocupar. Forno com acabamento em esmalte Simple+Clean: Mais facilidade no momento da limpeza, com remoção fácil de manchas e gorduras.",
