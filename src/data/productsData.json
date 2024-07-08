@@ -46,8 +46,8 @@
     {
       "id": "52",
       "title": "Macbook Air 2017 13.3 polegadas",
-      "description": "MacBook Air 2017 SSD 128GB, Intel Core i5, 8GB de ram. Tudo funcionando 100%, bateria durando em média 4 a 6 horas. Macbook muito leve e com design muito elegante e fino. Está bem conservado, sem amassados e sem marcas de uso. Acompanham o macbook: carregador original, caixa, cabo Thunderbolt X HDMI 2 metros, adaptadores Thunderbolt X HDMI e Thunderbolt X VGA.",
-      "price": "2.300,00",
+      "description": "MacBook Air 2017 SSD 1TB, Intel Core i5, 8GB de ram. Tudo funcionando 100%, bateria durando em média 4 a 6 horas. Macbook muito leve e com design muito elegante e fino. Está bem conservado, sem amassados e sem marcas de uso. Acompanham o macbook: carregador original, caixa, cabo Thunderbolt X HDMI 2 metros, adaptadores Thunderbolt X HDMI e Thunderbolt X VGA.",
+      "price": "2.800,00",
       "category": "eletronico",
       "images": [
         "../../assets/products/macbook-air/macbook-air1.png",
@@ -141,30 +141,6 @@
       ]
     },
     {
-      "id": "61",
-      "title": "Teclado sem fio Logitech MX Keys Mini ",
-      "description": "Teclado sem fio Logitech MX Keys Mini com Iluminação Inteligente, Conexão USB ou Bluetooth Easy-Switch para até 3 dispositivos e Bateria Recarregável - Grafite. Digitação e posicionamento com teclas inteligentes: digite nas teclas moldadas para a ponta dos dedos, com ditado de voz para texto, ativação e desativação do som e teclas de emoji. Tamanho Minimalista, compacto e poderoso: um layout projetado para precisão sem esforço, com formato minimalista para um teclado ergonômico e portátil para fácil transporte. Iluminação inteligente: as teclas retroiluminadas do teclado se iluminam no momento em que suas mãos se aproximam e se ajustam automaticamente para se adequar às mudanças nas condições de iluminação. Vários dispositivos, vários sistemas operacionais: Pareie o teclado compacto MX Keys Mini com até 3 dispositivos em praticamente qualquer sistema operacional via Bluetooth Low Energy e alterne entre eles perfeitamente",
-      "price": "300,00",
-      "category": "escritorio",
-      "images": [
-        "../../assets/products/logi-teclado/logi-teclado1.png",
-        "../../assets/products/logi-teclado/logi-teclado2.png",
-        "../../assets/products/logi-teclado/logi-teclado3.png",
-        "../../assets/products/logi-teclado/logi-teclado4.png"
-      ]
-    },
-    {
-      "id": "13",
-      "title": "Coqueteleira Kit",
-      "description": "Kit coqueteleira para preparo de bebeidas de Inox.",
-      "price": "15,00",
-      "category": "cozinha",
-      "images": [
-        "../../assets/products/coqueteleira/coqueteleira1.png",
-        "../../assets/products/coqueteleira/coqueteleira2.png"
-      ]
-    },
-    {
       "id": "59",
       "title": "Mouse DELL",
       "description": "Mouse Bluetooth sem fio DELL, pilha, cor preta.",
@@ -245,16 +221,6 @@
       ]
     },
     {
-      "id": "67",
-      "title": "Logitech MK220 - Kit mouse e teclado",
-      "description": "Combo Teclado e Mouse sem fio Logitech MK220 com Design Compacto, Conexão USB, Pilhas Inclusas e Layout ABNT2 - 920-004431. O teclado é cerca de 36% menor do que os teclados padrão, e ainda assim possui layout ABNT2. Possui conexão sem fio confiável de até 10 metros de distância, praticamente sem atrasos ou interrupções ? mesmo nos ambientes mais movimentados.* A autonomia das pilhas do teclado são de 24 meses e das pilhas do mouse são de 5 meses, significa que você pode ter uma durabilidade de meses sem precisar trocar as pilhas** ? além de suspensão automática quando não estiver em uso.** O MK220 combina perfeitamente com a sua decoração graças ao seu design minimalista.",
-      "price": "60,00",
-      "category": "escritorio",
-      "images": [
-        "../../assets/products/logi-mouse-teclado/logi-mouse-teclado1.png"
-      ]
-    },
-    {
       "id": "37",
       "title": "Formas variadas",
       "description": "Variadas formas para preparo de alimentos doces, salgados. *** Venda separada: R$10,00 cada, exceto forma com teflon R$20,00 ***",
@@ -282,16 +248,6 @@
       ]
     },
     {
-      "id": "39",
-      "title": "Kit Assadeira/Travessa de Cerâmica Retangular 2 peças M/P",
-      "description": "A Assadeira de Cerâmica Retangular permite preparar variados tipos de receitas, podendo ser levada ao forno, micro-ondas e lava louças. Além de assar, o refratário é ideal para servir à mesa, deixando-a ainda mais sofisticada e charmosa, propiciando bons e saborosos momentos. Kit com 2 assadeiras de 2 tamanhos diferentes.",
-      "price": "80,00",
-      "category": "cozinha",
-      "images": [
-        "../../assets/products/assadeira-ceramica/assadeira-ceramica1.png"
-      ]
-    },
-    {
       "id": "62",
       "title": "Apple Magic Mouse Multi-Touch, Preto",
       "description": "O Magic Mouse apresenta um design otimizado que se movimenta perfeitamente pela mesa. É possível navegar por documentos e páginas de maneira suave, fazendo gestos simples, isso graças a superfície Multi-Touch.  Ele já vem pronto para o uso com o Mac. A sua bateria também apresenta uma duração bem longa, tendo um mês ou mais entre recargas. O mouse vem acompanhado de um cabo USB para Lightning.",
@@ -301,16 +257,6 @@
         "../../assets/products/apple-mouse-p/apple-mouse-p1.png",
         "../../assets/products/apple-mouse-p/apple-mouse-p2.png",
         "../../assets/products/apple-mouse-p/apple-mouse-p3.png"
-      ]
-    },
-    {
-      "id": "41",
-      "title": "Petisqueira",
-      "description": "Petisqueira de ceramica cor preta.",
-      "price": "30,00",
-      "category": "cozinha",
-      "images": [
-        "../../assets/products/petisqueira/petisqueira1.png"
       ]
     },
     {
@@ -334,16 +280,6 @@
       ]
     },
     {
-      "id": "45",
-      "title": "Pipoqueira",
-      "description": "Pipoqueira de ferro, grande.",
-      "price": "80,00",
-      "category": "cozinha",
-      "images": [
-        "../../assets/products/pipoqueira/pipoqueira1.png"
-      ]
-    },
-    {
       "id": "66",
       "title": "Logitech - Mouse com Fio",
       "description": "Mouse com Fio marca Logitech M90, lacrado.",
@@ -351,16 +287,6 @@
       "category": "escritorio",
       "images": [
         "../../assets/products/logi-mouse/logi-mouse1.png"
-      ]
-    },
-    {
-      "id": "46",
-      "title": "Organizador Multi Uso",
-      "description": "Oranizador multi uso, ideal para organizar pratos, panelas, formas.",
-      "price": "10,00",
-      "category": "cozinha",
-      "images": [
-        "../../assets/products/organizador/organizador1.png"
       ]
     },
     {
@@ -385,17 +311,6 @@
         "../../assets/products/luminaria-ts/luminaria-ts2.png",
         "../../assets/products/luminaria-ts/luminaria-ts3.png",
         "../../assets/products/luminaria-ts/luminaria-ts4.png"
-      ]
-    },
-    {
-      "id": "72",
-      "title": "Suporte notebook",
-      "description": "Suporte para notebook de ferro, preto",
-      "price": "30,00",
-      "category": "escritorio",
-      "images": [
-        "../../assets/products/suporte-notebook/suporte-notebook1.png",
-        "../../assets/products/suporte-notebook/suporte-notebook2.png"
       ]
     },
     {
@@ -454,8 +369,8 @@
     {
       "id": "79",
       "title": "Grades para Pet",
-      "description": "2 grades móveis para pets, ideal para animais de porte pequeno, limitando o acesso a ambientes, materia:l ferro.",
-      "price": "40,00",
+      "description": "1 grade móvel para pets, ideal para animais de porte pequeno, limitando o acesso a ambientes, materia:l ferro.",
+      "price": "20,00",
       "category": "outros",
       "images": [
         "../../assets/products/grades-pets/grades-pets1.png",
@@ -473,17 +388,6 @@
         "../../assets/products/ferro-philco/ferro-philco2.png",
         "../../assets/products/ferro-philco/ferro-philco3.png",
         "../../assets/products/ferro-philco/ferro-philco4.png"
-      ]
-    },
-    {
-      "id": "82",
-      "title": "Banco Sapateira Porta de Casa",
-      "description": "Banco sapateira para porta de casa, feito de ferro branco com madeira natural.",
-      "price": "80,00",
-      "category": "casa",
-      "images": [
-        "../../assets/products/banco-sapateira/banco-sapateira1.png",
-        "../../assets/products/banco-sapateira/banco-sapateira2.png"
       ]
     },
     {
@@ -511,16 +415,6 @@
       ]
     },
     {
-      "id": "86",
-      "title": "Organizadores (2 und)",
-      "description": "2 organizadeores retangulares, grade - material ferro, cor branca.",
-      "price": "15,00",
-      "category": "casa",
-      "images": [
-        "../../assets/products/organizador-retangular/organizador-retangular.png"
-      ]
-    },
-    {
       "id": "88",
       "title": "Organizadores Multi Uso",
       "description": "2 organizadores multi uso, podendo ser usado na ozinha, dentro de armarios, material: ferro.",
@@ -530,20 +424,6 @@
         "../../assets/products/organizadores-grade/organizadores-grade1.png",
         "../../assets/products/organizadores-grade/organizadores-grade2.png",
         "../../assets/products/organizadores-grade/organizadores-grade3.png"
-      ]
-    },
-    {
-      "id": "89",
-      "title": "Cestos Organizadores",
-      "description": "Cestos organizadores variados, valor unidade.",
-      "price": "5,00",
-      "category": "casa",
-      "images": [
-        "../../assets/products/organizadores-plastico/organizadores-plastico1.png",
-        "../../assets/products/organizadores-plastico/organizadores-plastico2.png",
-        "../../assets/products/organizadores-plastico/organizadores-plastico3.png",
-        "../../assets/products/organizadores-plastico/organizadores-plastico4.png",
-        "../../assets/products/organizadores-plastico/organizadores-plastico5.png"
       ]
     },
     {
@@ -564,13 +444,12 @@
     },
     {
       "id": "91",
-      "title": "Mantas",
-      "description": "Mantas/Cobertores. Primeira foto R$40,00, Segunda foto R$50,00",
-      "price": "90,00",
+      "title": "Manta Sofa",
+      "description": "Mantas para sofa.",
+      "price": "40,00",
       "category": "outros",
       "images": [
-        "../../assets/products/mantas/manta1.png",
-        "../../assets/products/mantas/manta2.png"
+        "../../assets/products/mantas/manta1.png"
       ]
     },
     {
@@ -652,17 +531,6 @@
       ]
     },
     {
-      "id": "113",
-      "title": "Porta Utensílios",
-      "description": "Porta utensílios de ferro, cor preta",
-      "price": "10,00",
-      "category": "casa",
-      "images": [
-        "../../assets/products/porta-utensilio/porta-utensilio1.png",
-        "../../assets/products/porta-utensilio/porta-utensilio2.png"
-      ]
-    },
-    {
       "id": "114",
       "title": "Kit Recipientes Banho",
       "description": "Recipientes para shampoo, condicionador e sabonete. Material: plástico.",
@@ -699,17 +567,6 @@
       ]
     },
     {
-      "id": "120",
-      "title": "Tapete Médio",
-      "description": "Tapete para quarto/sala/home-office - 200cm x 145cm",
-      "price": "150,00",
-      "category": "casa",
-      "images": [
-        "../../assets/products/tapete-medio/tapete-medio1.png",
-        "../../assets/products/tapete-medio/tapete-medio2.png"
-      ]
-    },
-    {
       "id": "121",
       "title": "Tapete grande",
       "description": "Tapete para quarto/sala/home-office - 250cm x 200cm",
@@ -718,39 +575,6 @@
       "images": [
         "../../assets/products/tapete-grande/tapete-grande1.png",
         "../../assets/products/tapete-grande/tapete-grande2.png"
-      ]
-    },
-    {
-      "id": "122",
-      "title": "Caixas Organizadoras Pequenas",
-      "description": "2 caixas organizadoras, pequenas, ideais para gavetas. A bramca possui divisórias. *** Valor Unidade ***",
-      "price": "5,00",
-      "category": "outros",
-      "images": [
-        "../../assets/products/caixa-org-pequenas/caixa-org-pequenas1.png",
-        "../../assets/products/caixa-org-pequenas/caixa-org-pequenas2.png",
-        "../../assets/products/caixa-org-pequenas/caixa-org-pequenas3.png"
-      ]
-    },
-    {
-      "id": "123",
-      "title": "Caixa Farmácia",
-      "description": "1 caixa farmácia para armazenamento de remédios.",
-      "price": "5,00",
-      "category": "outros",
-      "images": [
-        "../../assets/products/farmacia/farmacia1.png"
-      ]
-    },
-    {
-      "id": "124",
-      "title": "Bones MCD - Originais",
-      "description": "2 bonés MCD originais, cinza/azul com clipe de ajuste, preto de elastico para ajuste. **** Valor unidade. ****",
-      "price": "60,00",
-      "category": "outros",
-      "images": [
-        "../../assets/products/bone/bone1.png",
-        "../../assets/products/bone/bone2.png"
       ]
     }
   ]
