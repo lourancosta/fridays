@@ -1,18 +1,6 @@
 {
   "products": [
     {
-      "id": "27",
-      "title": "Forno De Embutir Elétrico Electrolux OE60M 59 Litros – Preto 127V",
-      "description": "59 litros de Capacidade: Forno de embutir compacto para melhor aproveitamento do espaço na cozinha. 3 funções: Para preparar Bolos, Massas, Carnes e Dourar. Função Manter Aquecido: Mantém sua receita quentinha até o momento de servir. Timer com Auto Desligamento: Após atingir o tempo escolhido no timer o forno desliga sozinho, sem precisar se preocupar. Forno com acabamento em esmalte Simple+Clean: Mais facilidade no momento da limpeza, com remoção fácil de manchas e gorduras.",
-      "price": "900,00",
-      "category": "cozinha",
-      "images": [
-        "../../assets/products/forno-eletrico/forno-eletrico1.png",
-        "../../assets/products/forno-eletrico/forno-eletrico2.png",
-        "../../assets/products/forno-eletrico/forno-eletrico3.png"
-      ]
-    },
-    {
       "id": "56",
       "title": "Macbook Pro - Chip M1 Pro, 14 Polegadas 16GB RAM 512 SSD - Cinza Espacial",
       "description": "Notebook Apple Macbook Pro, chip M1 Pro, 14 polegadas. 16GB RAM e 512 SSD. Chips M1 Pro ultrarrápido para desempenho revolucionário e bateria com duração impressionante. Tela Liquid Retina XDR espetacular. E todas as portas que você poderia querer. É exatamente o que você estava esperando.",
@@ -120,17 +108,6 @@
       ]
     },
     {
-      "id": "11",
-      "title": "Supla Descanso Prato Mesa De Jantar Posta Decoração Versátil Pratico Redondo",
-      "description": "Jogo de supla para jantar, com 6 peças.",
-      "price": "30,00",
-      "category": "cozinha",
-      "images": [
-        "../../assets/products/conjunto-suplas/conjunto-suplas1.png",
-        "../../assets/products/conjunto-suplas/conjunto-suplas2.png"
-      ]
-    },
-    {
       "id": "12",
       "title": "Jarra de Vidro",
       "description": "1 jarra de vidro, capacidade 1 litro.",
@@ -186,17 +163,6 @@
       ]
     },
     {
-      "id": "64",
-      "title": "Mouse sem fio Logitech MX Master 3 - Preto",
-      "description": "Sensor Darkfield para Uso em Qualquer Superfície, Design Ergonômico, Conexão USB ou Bluetooth. Tracking em qualquer superfície - use o MX Master 3 em qualquer superfície - até em vidro - com o sensor atualizado de 8000 DPI com sensibilidade personalizável.",
-      "price": "350,00",
-      "category": "escritorio",
-      "images": [
-        "../../assets/products/log-mouse-mx/log-mouse-mx1.png",
-        "../../assets/products/log-mouse-mx/log-mouse-mx2.png"
-      ]
-    },
-    {
       "id": "34",
       "title": "Potes tampa bambu",
       "description": "2 Potes com tampa de babum - biscoitos e café. R$30,00 cada.",
@@ -221,33 +187,6 @@
       ]
     },
     {
-      "id": "37",
-      "title": "Formas variadas",
-      "description": "Variadas formas para preparo de alimentos doces, salgados. *** Venda separada: R$10,00 cada, exceto forma com teflon R$20,00 ***",
-      "price": "60,00",
-      "category": "cozinha",
-      "images": [
-        "../../assets/products/formas/formas1.png",
-        "../../assets/products/formas/formas2.png",
-        "../../assets/products/formas/formas3.png",
-        "../../assets/products/formas/formas4.png",
-        "../../assets/products/formas/formas5.png",
-        "../../assets/products/formas/formas6.png"
-      ]
-    },
-    {
-      "id": "38",
-      "title": "Itens Confeitaria",
-      "description": "Utensílios para confeitaria, tapetes e formas para biscoits, cupcakes, macarons. *** Venda separada R$20,00 cada ***",
-      "price": "60,00",
-      "category": "cozinha",
-      "images": [
-        "../../assets/products/confeitaria/confeitaria1.png",
-        "../../assets/products/confeitaria/confeitaria2.png",
-        "../../assets/products/confeitaria/confeitaria3.png"
-      ]
-    },
-    {
       "id": "62",
       "title": "Apple Magic Mouse Multi-Touch, Preto",
       "description": "O Magic Mouse apresenta um design otimizado que se movimenta perfeitamente pela mesa. É possível navegar por documentos e páginas de maneira suave, fazendo gestos simples, isso graças a superfície Multi-Touch.  Ele já vem pronto para o uso com o Mac. A sua bateria também apresenta uma duração bem longa, tendo um mês ou mais entre recargas. O mouse vem acompanhado de um cabo USB para Lightning.",
@@ -257,16 +196,6 @@
         "../../assets/products/apple-mouse-p/apple-mouse-p1.png",
         "../../assets/products/apple-mouse-p/apple-mouse-p2.png",
         "../../assets/products/apple-mouse-p/apple-mouse-p3.png"
-      ]
-    },
-    {
-      "id": "42",
-      "title": "Boleira",
-      "description": "Bandeja de bolo vidro",
-      "price": "30,00",
-      "category": "cozinha",
-      "images": [
-        "../../assets/products/boleira/boleira1.png"
       ]
     },
     {
@@ -368,7 +297,7 @@
     },
     {
       "id": "79",
-      "title": "Grades para Pet",
+      "title": "Grade para Pet",
       "description": "1 grade móvel para pets, ideal para animais de porte pequeno, limitando o acesso a ambientes, materia:l ferro.",
       "price": "20,00",
       "category": "outros",
@@ -388,18 +317,6 @@
         "../../assets/products/ferro-philco/ferro-philco2.png",
         "../../assets/products/ferro-philco/ferro-philco3.png",
         "../../assets/products/ferro-philco/ferro-philco4.png"
-      ]
-    },
-    {
-      "id": "83",
-      "title": "Cesto De Palha Taboa Branco Decoração Para Casa",
-      "description": "Uma ótima opção para compor a decoração do seu espaço com tons sóbrios e sofisticados, da Coleção blendTWO assinado pela arquiteta Ju Granado. CASA GRANADO DECORAÇÃO. DICA DE USO: Este cesto fica maravilhoso para ser disposto ao lado de uma rack com uma planta, mesa de escritório, escrivaninha, poltrona, escritório, hall de entrada, usar no lavabo, banheiro, e é super moderno e arrojado. Ele vai compor seu espaço com muito estilo e bom gosto. 33 cm x 33 cm x 33 cm",
-      "price": "100,00",
-      "category": "casa",
-      "images": [
-        "../../assets/products/cesto-sala/cesto-sala1.png",
-        "../../assets/products/cesto-sala/cesto-sala2.png",
-        "../../assets/products/cesto-sala/cesto-sala3.png"
       ]
     },
     {
@@ -500,22 +417,6 @@
       "images": [
         "../../assets/products/espelho/espelho1.png",
         "../../assets/products/espelho/espelho2.png"
-      ]
-    },
-    {
-      "id": "107",
-      "title": "Aspirador de Pó Vertical WAP POWER SPEED 2000W 3L Potente 2 em 1 com Mangueira Extensora Flexível 127V",
-      "description": "Desenvolvido com muito Amor, o Aspirador de Pó WAP POWER SPEED segundo nossos clientes, Limpa na força do Ódio! Amor pela Limpeza, Ódio pela Sujeira, É WAP! Super Potente! Potência Elétrica de 2000W. Vácuo Sucção de 133 mbar. Aspirador Vertical 2 em 1 com Mangueira Extensível e Flexível. Filtro HEPA e Recipiente com Capacidade de 3 Litros. Possui Escova Elétrica Rotativa e Turbo Brush, ideal para quem tem animais de estimação, deixando o ambiente livre de pelos em instantes. Tecnologia Ciclone que compacta toda a sujeira e evita a obstrução da passagem do ar, otimizando ainda mais sua aspiração.",
-      "price": "400,00",
-      "category": "casa",
-      "images": [
-        "../../assets/products/aspirador/aspirador1.png",
-        "../../assets/products/aspirador/aspirador2.png",
-        "../../assets/products/aspirador/aspirador3.png",
-        "../../assets/products/aspirador/aspirador4.png",
-        "../../assets/products/aspirador/aspirador5.png",
-        "../../assets/products/aspirador/aspirador6.png",
-        "../../assets/products/aspirador/aspirador7.png"
       ]
     },
     {
