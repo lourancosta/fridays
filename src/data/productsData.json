@@ -32,23 +32,6 @@
       ]
     },
     {
-      "id": "52",
-      "title": "Macbook Air 2017 13.3 polegadas",
-      "description": "MacBook Air 2017 SSD 1TB, Intel Core i5, 8GB de ram. Tudo funcionando 100%, bateria durando em média 4 a 6 horas. Macbook muito leve e com design muito elegante e fino. Está bem conservado, sem amassados e sem marcas de uso. Acompanham o macbook: carregador original, caixa, cabo Thunderbolt X HDMI 2 metros, adaptadores Thunderbolt X HDMI e Thunderbolt X VGA.",
-      "price": "2.800,00",
-      "category": "eletronico",
-      "images": [
-        "../../assets/products/macbook-air/macbook-air1.png",
-        "../../assets/products/macbook-air/macbook-air2.png",
-        "../../assets/products/macbook-air/macbook-air3.png",
-        "../../assets/products/macbook-air/macbook-air4.png",
-        "../../assets/products/macbook-air/macbook-air5.png",
-        "../../assets/products/macbook-air/macbook-air6.png",
-        "../../assets/products/macbook-air/macbook-air7.png",
-        "../../assets/products/macbook-air/macbook-air8.png"
-      ]
-    },
-    {
       "id": "53",
       "title": "Headphone Sony WH-1000XM5",
       "description": "Os melhores fones de ouvido sem fio com cancelamento de ruído com otimizador de cancelamento de ruído automático, chamadas mãos-livres cristalinas e controle de voz Alexa, preto. Maiores detalhes técnicos na ultima foto.",
@@ -95,19 +78,6 @@
       ]
     },
     {
-      "id": "32",
-      "title": "Lava e Seca LG - Inverter Direct Drive 11 / 6 Kg",
-      "description": "Lavadora e secadora LG -  lava 11 Kg e seca 6 kg",
-      "price": "1.900,00",
-      "category": "casa",
-      "images": [
-        "../../assets/products/lavaseca/lavaseca1.png",
-        "../../assets/products/lavaseca/lavaseca2.png",
-        "../../assets/products/lavaseca/lavaseca3.png",
-        "../../assets/products/lavaseca/lavaseca4.png"
-      ]
-    },
-    {
       "id": "12",
       "title": "Jarra de Vidro",
       "description": "1 jarra de vidro, capacidade 1 litro.",
@@ -149,17 +119,6 @@
       "images": [
         "../../assets/products/hashi/hashi4.png",
         "../../assets/products/hashi/hashi5.png"
-      ]
-    },
-    {
-      "id": "26",
-      "title": "Cooktop Philco",
-      "description": "Para quem deseja mais modernidade e elegância para sua cozinha, o Cooktop Philco é perfeito! Com 4 queimadores, sendo 1queimador com tripla chama de 3600W, 1 queimador rápido de 3000W e 2 queimadores semi-rápido de 1750W, você prepara as mais diversas receitas com rapidez e eficiência.",
-      "price": "200,00",
-      "category": "cozinha",
-      "images": [
-        "../../assets/products/cooktop/cooktop1.png",
-        "../../assets/products/cooktop/cooktop2.png"
       ]
     },
     {
